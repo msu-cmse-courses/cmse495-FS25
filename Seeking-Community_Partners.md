@@ -42,14 +42,14 @@ In general, community partners who choose to move forward would work with the in
 * (optional) Provide a logo to include on the CMSE 495 course website.  
 * (optional) Approve a press release and article about the partnership that will be posted on the CMSE department website, and may be picked up and distributed by other news outlets. 
 
-### Key tasks during Spring 2024 include: 
+### Key tasks during Spring 2025 include: 
 
-* Provide regular feedback on project deliverables, and guidance and mentoring to the student team during the semester (mid January 2024 through early May 2024) 
+* Provide regular feedback on project deliverables, and guidance and mentoring to the student team during the semester (mid January 2025 through early May 2025) 
 * Provide feedback on the final project report (including a video and support materials), which will be provided to the community partners at the end of the project.   
 * (optional) Share information about the community partner’s organization at a seminar for appropriate MSU audiences (e.g., undergraduates, graduate students, postdocs, faculty, or staff in CMSE, the College of Engineering, and/or the College of Natural Science) 
 * (optional) Participate in networking activities with students from the course (beyond the community partner’s project team, as desired) 
 
-The tentative project timeline for Spring 2024 is outlined below: 
+The tentative project timeline for Spring 2025 is outlined below: 
 
 | Week          | Description                                    |
 | ------------- | ---------------------------------------------- |

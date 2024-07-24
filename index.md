@@ -1,4 +1,11 @@
-# CMSE 495 - Data Science Capstone (Spring 2024)
+# CMSE 495 - Spring 2025 Data Science Capstone (Under Construction)
+
+---
+**NOTE**
+
+### Seeking 2025 Project community partners!
+
+If you have a project and are interested in being a CMSE495 community partner for **_Spring 2025_** please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project community partner please see our [Project community partner Page](./Seeking-Community_Partners)
 
 ---
 
