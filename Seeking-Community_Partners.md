@@ -10,7 +10,7 @@ If you are interested please considering filling out the [MSU Data Science Commu
 
 ### Who can be a community partner?
 
-Typically our partners come from Industry, Govermental Agencies and Non-profit institutions. Our partners have ideas/problems and are looking for student teams to help solve their data science projects. We are seeking a varity of projects ideas and generally prefer ones that have one or more of the following properties:
+Typically our partners come from Industry, Governmental Agencies and Non-profit institutions. Our partners have ideas/problems and are looking for student teams to help solve their data science projects. We are seeking a variety of projects ideas and generally prefer ones that have one or more of the following properties:
 
 - Social impact
 - Impact to the State of Michigan
@@ -24,17 +24,23 @@ Community partners will have the opportunity to work with the course instructor 
 
 Ideal projects include each element of the data science pipeline, from data collection to presentation, as outlined above. However, projects may focus more heavily in some areas than others, depending on the community partner’s goals. Examples of the types of projects that may be appropriate include: 
 
-* **_Community partners have an existing dataset and some key questions_**: students will write software to read in the data, generate models (e.g., using Machine Learning), and show results - all with the goal of trying to answer the community partner’s questions.  
-* **_Community partners have an existing dataset, but no specific questions_**: students will build an interface to parse the data, generate models, visualize the dataset, and explore the data - all with the goal of identifying categories or types of questions for which the data could provide answers. 
-* **_Community partners have questions, but no data_**: students will generate, query, or mine desired data from existing resources (such as the internet), clean up the data, visualize data, and apply models - all with the goal of trying to identify appropriate datasets and answer the community partner’s questions.  
-
+* ***Community partners have an existing dataset and some key questions***: students will write software to
+read in the data, generate models (e.g., using Machine Learning), and show results - all with the goal of
+trying to answer the community partner’s questions.  
+* ***Community partners have an existing dataset, but no specific questions***: students will build an
+interface to parse the data, generate models, visualize the dataset, and explore the data, aiming to work
+with the community partners identify interesting insights in the data.
+* ***Community partners have questions, but no data***: students will generate, query, or mine desired data
+from existing resources (such as the internet), clean up the data, visualize data, and apply models,
+to identify appropriate datasets that are able to answer the community partner’s questions.  
+ 
 In an effort to build relationships and try to obtain the best project outcomes, community partners are encouraged to engage with students and instructors regularly. At a minimum, community partners are asked to meet monthly with student teams and provide weekly feedback by email. Additional informational, networking, and/or project-related activities will be available on a weekly basis for community partners interested in more engagement. For highly engaged community partners, the time commitment is expected to average 1.5 hours a week (~20 hours total). 
 
 ### Overview of Timeline and Next Steps 
 
 Interested community partners are encouraged to contact Dr. Dirk Colbry (colbrydi@msu.edu) as far in advance as possible. An initial meeting will be scheduled to share more information and determine whether this opportunity is a good fit for the community partner’s interests and needs.  
 
-In general, community partners who choose to move forward would work with the instructor to complete the following tasks during Fall 2023:  
+In general, community partners who choose to move forward would work with the instructor to complete the following tasks during Fall 2024:  
 
 * Work with Dr. Colbry to develop an appropriate project description. 
 * Prepare any necessary agreements for the project (e.g., expectations about intellectual property, non-disclosure agreements, software/hardware resources, data/information security restrictions)  
@@ -55,7 +61,7 @@ The tentative project timeline for Spring 2025 is outlined below:
 | ------------- | ---------------------------------------------- |
 | July 1 - November 15 | Seek out potential community partners |
 | July 1 - November 15 | Meet with commmunity partners to develop project plan and work on agreements | 
-| December 1, 2023 | Finish agreements between MSU and community partners |
+| December 1 | Finish agreements between MSU and community partners |
 | January 1-15  | Finalize and upload projects descriptions to website | 
 | January 16-20 | Teams assigned to each project                 |
 | January 23-27 | First Community Partner/Student/Faculty networking event |
