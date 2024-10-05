@@ -240,9 +240,8 @@ In addition, MSU welcomes a full spectrum of experiences, viewpoints, and intell
 
 ## Accommodations for Students with Disabilities
 
-> Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at <http://rcpd.msu.edu>.  Once your eligibility for an accommodation has been determined, you will be issued a Verified Individual Services Accommodation ("VISA") form. Please present this form to the instructor at the start of the term and/or two weeks prior to the accommodation date (test, project, etc.). Requests received after this date may not be honored. 
->
->- from the Resource Center for Persons with Disabilities (RCPD)
+Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at <http://rcpd.msu.edu>.  Once your eligibility for an accommodation has been determined, you will be issued a Accommodation Letter (formally known as a Verified Individual Services Accommodation or "VISA" form). Please present this letter to the instructor at the start of the term and/or two weeks prior to the accommodation date (test, project, etc.). Requests received after this date may not be honored. 
+
 
 ## Academic honesty
 
