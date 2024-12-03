@@ -159,7 +159,7 @@ Accompanying course information, including the official course calendar, can be 
 ## Course Meeting Time and Location
 
 
-Classes will meet weekly on **_Monday, Wednesday and Friday 3:00-4:20pm in Union 55_**.
+Classes will meet weekly on **_Monday, Wednesday and Friday 3:00-4:20pm in Engineering Building 1145_**.
 
 If, during the semester there is a need, we have set aside the following zoom room for this course. Teams must notify the instructor before class if one of their members needs to connect to class remotely (ex. due to illness or travel).  
 
@@ -191,7 +191,7 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 **_Web_**:  <http://www.dirk.colbry.com>  
 **_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/)  
 **_Virtual Office_**:  [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi)  
-**_Office Hours_**:  Mondays 1:00-3:00pm Outside the Classroom (Union 55)  
+**_Office Hours_**:  Mondays 1:00-2:30pm In my office ([EB 1516)](https://cmse.msu.edu/About/directions.aspx))  
 
 * Please visit <http://bookdirk.colbry.com/> to schedule an appointment.
 
@@ -199,11 +199,10 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 
 **_Graduate Teaching Assistant_**:
  
-Henry Fessler  
-Department of Computational Mathematics, Science and Engineering (CMSE)    
-**_Email_**: fesslerl@msu.edu  
-**_Virtual Office_**:  [Henry's Zoom Office](https://msu.zoom.us/j/94906530052)  
-**_Office Hours_**:  Tuesdays 9:00-10:00am, Thursdays 10:00-11:00am on Zoom. Alternate times and in person options on request.
+TBD  
+**_Email_**: TBD  
+**_Virtual Office_**:  TBD  
+**_Office Hours_**:  TBD  
  
 
 
