@@ -25,7 +25,7 @@
 |------|---------|------------|
 | Monday | 01/27 | Anticpating Challenges |
 | Wednesday | 01/29 | CyberAmbassadors Speaking up |
-| Friday | 01/31 | DTTD Review |
+| Friday | 01/31 | SCHOLAR Review |
 | Sunday | 02/02 | ASSIGNMENT Plan |
 
 ## Week of February 3
@@ -34,7 +34,7 @@
 |------|---------|------------|
 | Monday | 02/03 | Project Plan |
 | Wednesday | 02/05 | Community Engaged Learning I |
-| Friday | 02/07 | DTTD Pull request |
+| Friday | 02/07 | SCHOLAR Pull request |
 | Sunday | 02/09 | ASSIGNMENT Plan Video Storyboard |
 
 ## Week of February 10
@@ -43,7 +43,7 @@
 |------|---------|------------|
 | Monday | 02/10 | Proposal Presentation Storyboard Review |
 | Wednesday | 02/12 | Community Engaged Learning II |
-| Friday | 02/14 | DTTD Presentations |
+| Friday | 02/14 | SCHOLAR Presentations |
 | Sunday | 02/16 | ASSIGNMENT Plan Video |
 
 ## Week of February 17

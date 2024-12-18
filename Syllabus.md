@@ -78,7 +78,7 @@ If a student misses one or more of the modules due to an excused absence, they s
 
 ### DataTools (Typically on Fridays)
 
-On Fridays teams will work together to review, practice and build tutorials for common tools used in DataScience.  These projects are specifically selected to help student focus and practice their technical skills working as a team.  The content of the projects will be constructed in to mimic the expectations of the capstone projects and will be designed to practice specific skills needed to complete the projects. 
+On Fridays teams will work together to review, practice and build tutorials for common tools used in DataScience.  These tutorials are stored in a shared SCHOLAR git repository (Student-Crafted Hub for Open Learning and Academic Resources).  These projects are specifically selected to help student focus and practice their technical skills working as a team.  The content of the projects will be constructed in to mimic the expectations of the capstone projects and will be designed to practice specific skills needed to complete the projects. 
 
 It is expected that students will be able to complete the majority of work for these projects during class. However, motivated teams are welcome to work on the projects outside of class as long as any students include everyone in their team in the problem solving process. 
 
@@ -104,13 +104,13 @@ It is expected that the teams will talk to the instructors before sending in a r
 
 
 <a name=Honors_Option></a>
-### Honor's Option (DTTD Management team)
+### Honor's Option (Documentation Management team)
 
-This course offers an honor's option.  Student's taking the honor's option will join the DTTD Management team. Members of the DTTD Management team will be added to a special Microsoft Team Channel and will be expected to coordinate with each other (and the instructors) to divide the required work needed to manage the DTTD git repository. This includes organizing the issues list, reviewing pull requests, adding new features to the repository and helping other members of the course with git related questions. This role doesn't require that you are currently a git expert however in your duties on the management team you will be learning a lot about git. 
+This course offers an honor's option.  Student's taking the honor's option will join the Documentation Management team. Members of the Documentation Management team will be added to a special Microsoft Team Channel and will be expected to coordinate with each other (and the instructors) to divide the required work needed to manage the "SCHOLAR" (Student-Crafted Hub for Open Learning and Academic Resources) git repository. This includes organizing the issues list, reviewing pull requests, adding new features to the repository and helping other members of the course with git related questions. This role doesn't require that you are currently a git expert however in your duties on the management team you will be learning a lot about git. 
 
-To get credit for the Honor's Option students must contribute to the DTTD management team and email a short (less than 1-page) report to the instructors before the last day of class with a short paragraph about what they learned being on the management team and a list of tasks/responsibilities that they were responsible for managing. 
+To get credit for the Honor's Option students must contribute to the documentation management team and email a short (less than 1-page) report to the instructors before the last day of class with a short paragraph about what they learned being on the management team and a list of tasks/responsibilities that they were responsible for managing. 
 
-If you are interested in getting credit for the Honor's option, please email to your instructors saying you would like to be included in the DTTD management team. 
+If you are interested in getting credit for the Honor's option, please email to your instructors saying you would like to be included in the documentation management team. 
 
 # Assessment and Grading Information
 
@@ -199,10 +199,9 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 
 **_Graduate Teaching Assistant_**:
  
-TBD  
-**_Email_**: TBD  
-**_Virtual Office_**:  TBD  
-**_Office Hours_**:  TBD  
+Yash Mandlecha  
+Department of Computational Mathematics, Science and Engineering (CMSE)   
+**_Email_**: mandlec1@msu.edu  
  
 
 
@@ -244,7 +243,7 @@ Michigan State University is committed to providing equal opportunity for partic
 
 ## Academic honesty
 
-Intellectual integrity is the foundation of the scientific enterprise.  In all instances, you must do your own work and give proper credit to all sources that you use in your papers and oral presentations – any instance of submitting another person’s work, ideas, or wording as your own counts as plagiarism.  This includes failing to cite any direct quotations in your essays, research paper, class debate, or written presentation.  The MSU College of Engineering adheres to the policies of academic honesty as specified in the General Student Regulations 1.0, Protection of Scholarship and Grades, and in the all-University statement on Integrity of Scholarship and Grades, which are included in Spartan Life: Student Handbook and Resource Guide.  Students who plagiarize will receive a 0.0 in the course.  In addition, University policy requires that any cheating offense, regardless of the magnitude of the infraction or punishment decided upon by the professor, be reported immediately to the dean of the student's college.  (See also the[ Academic Integrity](https://www.msu.edu/%7Eombud/academic-integrity/index.html) webpage.)
+Intellectual integrity is the foundation of the scientific enterprise.  In all instances, you must do your own work and give proper credit to all sources that you use in your papers and oral presentations – any instance of submitting another person’s work, ideas, or wording as your own counts as plagiarism.  This includes failing to cite any direct quotations in your essays, research paper, class debate, or written presentation.  The MSU College of Engineering adheres to the policies of academic honesty as specified in the General Student Regulations 1.0, Protection of Scholarship and Grades, and in the all-University statement on Integrity of Scholarship and Grades, which are included in Spartan Life: Student Handbook and Resource Guide.  Students who plagiarize will receive a 0.0 in the course.  In addition, University policy requires that any cheating offense, regardless of the magnitude of the infraction or punishment decided upon by the professor, be reported immediately to the dean of the student's college. 
 
 It is important to note that plagiarism in the context of this course includes, but is not limited to, directly copying another student’s solutions to assignments; copying materials from online sources, textbooks, or other reference materials without citing those references in your source code or documentation, or having somebody else do your in-class work or homework on your behalf.  Any work that is done in collaboration with other students should state this explicitly, and have their names as well as yours listed clearly.
 
