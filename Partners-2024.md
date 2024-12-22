@@ -17,4 +17,4 @@ All of the sponsor logos presented here and elsewhere in this website are the pr
 | [![The QSIDE Institute](./assets/img/QSIDE.jpg)](https://qsideinstitute.org/) | 
 | [![TechSmith](./assets/img/Techsmith.png)](https://www.techsmith.com/)  | 
 | [![Tribal Early Childhood](./assets/img/TEC.png)](https://engage.msu.edu/about/projects/children-youth-and-families/tribal-early-childhood-research-center) | 
-| [![TwoSix](./assets/img/twosix.png)](https://twosixtech.com/) | 
+| [![TwoSix](./assets/img/TwoSix.png)](https://twosixtech.com/) | 
