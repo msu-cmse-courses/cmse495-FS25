@@ -207,9 +207,13 @@ Department of Computational Mathematics, Science and Engineering (CMSE)
 
 # Course Policies and Expectations
 
-## Non-Disclosure Agreements (NDA) and Intellectual Property (IP) agreements
+## Data Policy, Non-Disclosure Agreements (NDA) and Intellectual Property (IP) agreements
 
-Many of the project community partners will require students to sign an Non-Disclosure Agreement (NDA) and in some rare cases will be asked to sign an Intellectual Property (IP) agreement.  Your instructor will work with you so that you understand your rights and you will not be required to sign either document.    If students are unwilling or unable to sign these document they will be assigned to an alternative project.
+All student's in the course are expected to follow Michigan State University Acceptable Use Policy (AUP) which can be found at the following website: 
+
+* [Acceptable Use Policy for MSU Information Technology Resources](https://tech.msu.edu/about/guidelines-policies/aup/)
+
+In addition to the above, many of the community partners will require students to sign an Non-Disclosure Agreement (NDA) and in some rare cases will be asked to sign an Intellectual Property (IP) agreement.  Your instructor will work with you so that you understand your rights and you will not be required to sign either document.    If students are unwilling or unable to sign these document they will be assigned to an alternative project.
 
 - [Standard NDA Template](./Files/CMSE495_MSU_Standard_NDA_template.docx)
 - [Standard IP Template](./Files/CMSE495_MSU_Standard_IP_Agreement_template.docx)
