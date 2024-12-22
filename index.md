@@ -22,7 +22,7 @@ Michigan State University and the Department of Computational Mathematics Scienc
 - [Spring 2022 Partner List](./Partners-2022)
 - [Spring 2023 Partner List](./Partners-2023)
 - [Spring 2024 Partner List](./Partners-2024)
-- 
+
 If you have a project and are interested in being a future CMSE495 community partner for please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project community partner please see our [Project community partner Page](./Seeking-Community_Partners)
 
 ## Course Structure
