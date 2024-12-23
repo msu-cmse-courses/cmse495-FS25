@@ -1,13 +1,6 @@
 # CMSE 495 - Spring 2025 Data Science Capstone (Under Construction)
 
 ---
-**NOTE**
-
-### Seeking 2025 Project community partners!
-
-If you have a project and are interested in being a CMSE495 community partner for **_Spring 2025_** please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project community partner please see our [Project community partner Page](./Seeking-Community_Partners)
-
----
 
 The CMSE 495 data science capstone course is intended to provide students with an opportunity to put together what they have learned across multiple courses to develop a final project that demonstrates their ability to work in a team on real-world problems.
 
@@ -38,13 +31,13 @@ When possible, the majority of time outside of class will be dedicated to tasks 
 
 - [Course Syllabus](Syllabus)
 - [Schedule](Schedule)
-- [Course Teams Channel](https://teams.microsoft.com/l/team/19%3aZIr6qxmoN4-aYHTqckkubQlYQU1MifUf9AuLQJSKC5k1%40thread.tacv2/conversations?groupId=0942a9ef-430c-4e60-b188-4d53e2ca22e6&tenantId=22177130-642f-41d9-9211-74237ad5687d)
+- [Course Teams Channel](https://teams.microsoft.com/l/team/19%3AzTqC29ZVR8mf5gimuO2055kdrX7xkq_vFxwG6mzkgJ41%40thread.tacv2/conversations?groupId=3b3f1bb8-a5c4-400e-b896-abe77ff3eaf5&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 - [Requesting Funding](Requesting-Funding)
 - [Weekly 3x3 Team Reflections (Due Mondays)](Weekly-3x3)
 - [CMSE495 Capstone DataTools Tutorial Demo (DTTD) git repository](https://gitlab.msu.edu/CMSE/datatools_tutorial_demo)
 
 ## Other Recommended Resources
-- [Dirk's Git Guide](https://msu-cmse-courses.github.io/cmse802-f20-student/0000--Jupyter-Getting-Started-Guide.html)
+- [Dirk's Git Guide](https://msu-cmse-courses.github.io/cmse802-f20-student/0000-Getting-to-know-git.html)
 - [MSU FileDepot (Secure File Transfer tool)](https://filedepot.msu.edu/)
 - [Code Review Instructions and resources](https://www.pyopensci.org/)
 - [README Generator Tool](https://readme.so/editor)
