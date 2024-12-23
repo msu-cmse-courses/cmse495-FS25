@@ -32,6 +32,14 @@ Active class participation (led both by the instructors and by students) is crit
 
 There is a **_LOT_** of material to cover this semester. To help provide some structure the course will try to following a typical schedule. 
 
+### Microsoft Teams
+
+Once students are assigned to a team they will be added to a private team channel in the course Microsoft Team:
+
+* [Link to Course Teams Channel](https://teams.microsoft.com/l/team/19%3AzTqC29ZVR8mf5gimuO2055kdrX7xkq_vFxwG6mzkgJ41%40thread.tacv2/conversations?groupId=3b3f1bb8-a5c4-400e-b896-abe77ff3eaf5&tenantId=22177130-642f-41d9-9211-74237ad5687d)
+
+Teams will be expected to use either email or this channel for team communications. This will help the instructor stay organized and informed. 
+
 ### Project Milestones (Typically Due Sunday by Midnight)
 
 Although teams are encouraged to complete things early, project milestones will typically be due every **_Sunday at midnight_**.  In-class activities on most Mondays will involve reviewing project milestones, providing peer feedback and in-class time to prepare for next milestones. Details about the Milestones can be found on the course [Schedule Page](Schedule).
@@ -76,9 +84,9 @@ If a student misses one or more of the modules due to an excused absence, they s
 
 - [CyberAmbassador Website](https://sites.google.com/msu.edu/cyberambassadors/home/certificate)
 
-### DataTools (Typically on Fridays)
+### SCHOLAR Tutorials (Typically on Fridays)
 
-On Fridays teams will work together to review, practice and build tutorials for common tools used in DataScience.  These tutorials are stored in a shared SCHOLAR git repository (Student-Crafted Hub for Open Learning and Academic Resources).  These projects are specifically selected to help student focus and practice their technical skills working as a team.  The content of the projects will be constructed in to mimic the expectations of the capstone projects and will be designed to practice specific skills needed to complete the projects. 
+On Fridays teams will work together to review, practice and build tutorials for common tools used in DataScience.  These tutorials are stored in a shared [SCHOLAR git repository](https://gitlab.msu.edu/CMSE/SCHOLAR) (Student-Crafted Hub for Open Learning and Academic Resources).  These projects are specifically selected to help student focus and practice their technical skills working as a team.  The content of the projects will be constructed in to mimic the expectations of the capstone projects and will be designed to practice specific skills needed to complete the projects. 
 
 It is expected that students will be able to complete the majority of work for these projects during class. However, motivated teams are welcome to work on the projects outside of class as long as any students include everyone in their team in the problem solving process. 
 
@@ -233,6 +241,12 @@ Follow the directions on the assignment submissions. Please do not make your ins
 ## Email
 
 At times, we will send out important course information via email.  This email is sent to your MSU email address (the one that ends in “@msu.edu”).  You are responsible for all information sent to your university email and for checking this account daily. 
+
+## Microsoft Teams 
+
+In addition to email, students will be expected to check the course Teams Channel.  Students are responsible for all information sent to Teams. It is highly recommended that students download the app and turn on alerts.  
+
+* [Link to Course Teams channel](https://teams.microsoft.com/l/team/19%3AzTqC29ZVR8mf5gimuO2055kdrX7xkq_vFxwG6mzkgJ41%40thread.tacv2/conversations?groupId=3b3f1bb8-a5c4-400e-b896-abe77ff3eaf5&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 
 ## Inclusive classroom behavior 
 

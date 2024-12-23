@@ -6,7 +6,7 @@
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 01/13 |  [Welcome](0113-Welcome) |
-| Wednesday | 01/15 | CyberAmbassadors First Contact |
+| Wednesday | 01/15 |  [CyberAmbassadors First Contact](0115-CyberAmbassadors_First_Contact) |
 | Friday | 01/17 | Project Review |
 | Sunday | 01/19 | ASSIGNMENT Project Preferences |
 
