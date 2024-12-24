@@ -34,7 +34,7 @@ When possible, the majority of time outside of class will be dedicated to tasks 
 - [Course Teams Channel](https://teams.microsoft.com/l/team/19%3AzTqC29ZVR8mf5gimuO2055kdrX7xkq_vFxwG6mzkgJ41%40thread.tacv2/conversations?groupId=3b3f1bb8-a5c4-400e-b896-abe77ff3eaf5&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 - [Requesting Funding](Requesting-Funding)
 - [Weekly 3x3 Team Reflections (Due Mondays)](Weekly-3x3)
-- [CMSE495 Capstone DataTools Tutorial Demo (DTTD) git repository](https://gitlab.msu.edu/CMSE/datatools_tutorial_demo)
+- [SCHOLAR Git Repository](https://gitlab.msu.edu/CMSE/SCHOLAR)
 
 ## Other Recommended Resources
 - [Dirk's Git Guide](https://msu-cmse-courses.github.io/cmse802-f20-student/0000-Getting-to-know-git.html)
