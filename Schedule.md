@@ -15,7 +15,7 @@
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 01/20 | MLK No Class |
-| Wednesday | 01/22 | CyberAmbassadors Teaming Up |
+| Wednesday | 01/22 |  [CyberAmbassadors Teaming Up](0122-CyberAmbassadors_Teaming_Up) |
 | Friday | 01/24 | Team Meeting |
 | Sunday | 01/26 | ASSIGNMENT Project Organization |
 
