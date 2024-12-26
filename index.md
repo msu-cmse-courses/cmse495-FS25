@@ -1,4 +1,4 @@
-# CMSE 495 - Spring 2025 Data Science Capstone (Under Construction)
+# CMSE 495 - Spring 2025 Data Science Capstone
 
 ---
 
