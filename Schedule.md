@@ -17,7 +17,7 @@
 | Monday | 01/20 | MLK No Class |
 | Wednesday | 01/22 |  [CyberAmbassadors Teaming Up](0122-CyberAmbassadors_Teaming_Up) |
 | Friday | 01/24 |  [Team Meeting](0124-Team_Meeting) |
-| Sunday | 01/26 | ASSIGNMENT Project Organization |
+| Sunday | 01/26 |  [ASSIGNMENT Project Organization](0126-ASSIGNMENT_Project_Organization) |
 
 ## Week of January 27
 
