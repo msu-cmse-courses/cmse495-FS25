@@ -7,8 +7,7 @@
 ## Agenda (80 Minutes)
 
 - (70 minute) First contact
-- (5 minutes) Project Review
-- (5 minutes) First Contact D2L Quiz
+- (10 minutes) Project Review
 
 Welcome Serena Lotreck as a guest facilitator
 
@@ -81,9 +80,6 @@ For many of the projects it will be expected that the team build a data bibliogr
 **_Anticipated Challenges_** Often related to an Open Loop, an Anticipated Challenge is something about the project that could cause it to be delayed or fail.  Each anticipated challenge should include suggestions for what to do avoid or get around the problem.  For example, "What if there is not enough data to train the Neural Network, if so, maybe research pre-trained models and transfer learning?"  Another example would be "It could take a long time to determine the best visualization for this project, make sure preliminary results of the model are obtained early in the project (within the first four weeks) so there is enough time to iterate over different visualizations."  Another really good one is "what do we do if someone gets sick or drops the class."
 
 
-
-# 3. First Contact D2L Quiz
-Sometime before Friday log onto D2L and complete the quick quiz in the content section. Don't stress about these quizzes they are not worth much. They should take less than 5 minutes and I just ask you put in your best effort. 
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

@@ -50,7 +50,11 @@ Starting with the second week, all project milestones will be turned in using th
 
 ### Team Meetings (Typically on Mondays)
 
-Teams are expected to conduct multiple formal team meetings each week to work on the projects.  Although some time will be provided during class to conduct meetings, students must work together to arrange regular meetings outside of class. Meeting agendas and notes are required for all meetings and should include the following:
+Teams are expected to conduct multiple formal team meetings each week to work on the projects.  Although some time will be provided during class to conduct meetings, students must work together to arrange regular meetings outside of class. 
+
+***Teams are expected to also arrange regular meetings with their community partners to keep them informed about the progress of the project and ask questions.***
+
+Meeting agendas and notes are required for all meetings and should include the following:
 
 - Meeting time, location and duration
 - Attendance
@@ -66,11 +70,12 @@ Student grades will be partially determine by how well you work as a team.  Team
 
 **_NOTE_**: Team peer evaluation surveys will be conducted using [CATME](https://www.catme.org/help), an on-line tool though the course [Desire2Learn](http://d2l.msu.edu) website.  
 
-### Weekly 3x3 Reflections (Due Mondays)
+### Individual and Team Weekly 3x3 Reflections (Due Mondays)
 
-It is expected that each team will email a weekly Three-by-three (3x3) reflection to the instructors every Monday (cc all team members). The 3x3 reflection will consist of three major topics with exactly three bullet points in each topic (not 2 or 4). The three topics include;  1) What your team accomplish since your last report, 2) Challenges, Questions or problems your team is trying to solve  3) Your teams plans for next week.   Each of the 9 bullets in the 3x3 reflection should be no longer than a couple of sentences. Additional details can be placed in the same email after the report (not required). 
+It is expected that everyone will email a individual weekly Three-by-Three reflection to their capstone team on or before class on Monday. Then on Monday the team will summarize their individual 3x3's into one group 3x3 reflection that they send to their instructor for feedback.
 
-A template for 3x3 email can be found [here](Weekly-3x3)
+Additional details and instructions for how to write 3x3 reflections found [here](Weekly-3x3)
+
 
 ### Group Professional Development Activities (Typically on Wednesdays)
 
@@ -89,7 +94,6 @@ If a student misses one or more of the modules due to an excused absence, they s
 On Fridays teams will work together to review, practice and build tutorials for common tools used in DataScience.  These tutorials are stored in a shared [SCHOLAR git repository](https://gitlab.msu.edu/CMSE/SCHOLAR) (Student-Crafted Hub for Open Learning and Academic Resources).  These projects are specifically selected to help student focus and practice their technical skills working as a team.  The content of the projects will be constructed in to mimic the expectations of the capstone projects and will be designed to practice specific skills needed to complete the projects. 
 
 It is expected that students will be able to complete the majority of work for these projects during class. However, motivated teams are welcome to work on the projects outside of class as long as any students include everyone in their team in the problem solving process. 
-
 
 <a name=Requesting_Funding></a>
 ### Requesting Funding
@@ -171,7 +175,7 @@ Classes will meet weekly on **_Monday, Wednesday and Friday 3:00-4:20pm in Engin
 
 If, during the semester there is a need, we have set aside the following zoom room for this course. Teams must notify the instructor before class if one of their members needs to connect to class remotely (ex. due to illness or travel).  
 
-- <https://msu.zoom.us/j/96198911253>
+- <##ZOOM##>
 
 
 ## Course Schedule

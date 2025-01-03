@@ -26,7 +26,7 @@
 | Monday | 01/27 | Anticpating Challenges |
 | Wednesday | 01/29 | CyberAmbassadors Speaking up |
 | Friday | 01/31 | SCHOLAR Review |
-| Sunday | 02/02 | ASSIGNMENT Plan |
+| Sunday | 02/02 |  [ASSIGNMENT Plan](0202-ASSIGNMENT_Plan) |
 
 ## Week of February 3
 
