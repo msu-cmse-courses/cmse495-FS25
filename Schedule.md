@@ -1,5 +1,6 @@
 # Course Schedule  
 
+Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Mondays when we have class.
 
 ## Week of January 13
 
