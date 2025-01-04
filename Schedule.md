@@ -35,7 +35,7 @@
 | Monday | 02/03 | Project Plan |
 | Wednesday | 02/05 | Community Engaged Learning I |
 | Friday | 02/07 | SCHOLAR Pull request |
-| Sunday | 02/09 | ASSIGNMENT Plan Video Storyboard |
+| Sunday | 02/09 |  [ASSIGNMENT Plan Video Storyboard](0209-ASSIGNMENT_Plan_Video_Storyboard) |
 
 ## Week of February 10
 
@@ -44,7 +44,7 @@
 | Monday | 02/10 | Proposal Presentation Storyboard Review |
 | Wednesday | 02/12 | Community Engaged Learning II |
 | Friday | 02/14 | SCHOLAR Presentations |
-| Sunday | 02/16 | ASSIGNMENT Plan Video |
+| Sunday | 02/16 |  [ASSIGNMENT Plan Video](0216-ASSIGNMENT_Plan_Video) |
 
 ## Week of February 17
 
