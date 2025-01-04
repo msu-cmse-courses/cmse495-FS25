@@ -166,7 +166,7 @@ Classes will meet weekly on **_Monday, Wednesday and Friday 3:00-4:20pm in Engin
 
 If, during the semester there is a need, we have set aside the following zoom room for this course. Teams must notify the instructor before class if one of their members needs to connect to class remotely (ex. due to illness or travel).  
 
-- <##ZOOM##>
+- <https://msu.zoom.us/j/96198911253>
 
 
 ## Course Schedule
