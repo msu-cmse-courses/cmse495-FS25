@@ -50,20 +50,11 @@ Starting with the second week, all project milestones will be turned in using th
 
 ### Team Meetings (Typically on Mondays)
 
-Teams are expected to conduct multiple formal team meetings each week to work on the projects.  Although some time will be provided during class to conduct meetings, students must work together to arrange regular meetings outside of class. 
+Teams are expected to organize and conduct multiple formal team meetings each week to work on the projects.  Although some time will be provided during class to conduct meetings, students must work together to arrange regular meetings outside of class. 
 
-***Teams are expected to also arrange regular meetings with their community partners to keep them informed about the progress of the project and ask questions.***
+***Teams are expected to also arrange regular meetings with their community partners to keep them informed about the progress of the project and ask questions. Teams will need to include the community partners when determining the content and frequency of these meetings.***
 
-Meeting agendas and notes are required for all meetings and should include the following:
-
-- Meeting time, location and duration
-- Attendance
-- Meeting roles (facilitator, note taker and timekeeper) - These roles should change for each meeting.
-- Agenda items including; planned/actual time devoted to the item and the person responsible for leading the discussion about the item during the meeting. 
-- List of decisions made and tasks accomplished during the meeting.
-- List of action items including; what needs to be done, who is responsible for the item and when this task will be complete. 
-
-Meeting notes are to be stored in the Microsoft Teams folder, should be kept up to date, clearly organized and easily accessible by the instructors so that they may check in at any time to evaluate progress and provide feedback for the team.  
+Additional details and instructions for team meetings can be found [here](Meetings-Notes_and_agendas).
 
 ### Peer Evaluations (Also Typically due on Mondays)
 Student grades will be partially determine by how well you work as a team.  Teamwork can sometimes be difficult but it is required when joining our modern workforce.  Peer evaluations will be used to help the instructor evaluate team dynamics and provide support to the groups if there are some team dynamic issues that need to be resolved. 

@@ -45,7 +45,7 @@ Another fun resource is the following game which tries to teach you git:
 
 # Getting Credit for this assignment
 
-To get credit for this assignment submit your meeting notes to your teams drive.  Before you leave you must make sure that everyone on the team (including the instructors) are able to clone your repository. 
+To get credit for this assignment submit your meeting notes to your teams drive. More information can be found [here](Meetings-Notes_and_agendas). Before you leave you must make sure that everyone on the team (including the instructors) are able to clone your repository. 
 
 
 Written by Dr. Dirk Colbry, Michigan State University
