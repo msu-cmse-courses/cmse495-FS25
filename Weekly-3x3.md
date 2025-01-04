@@ -28,7 +28,7 @@ On Mondays each team will then summarize the information from their personal 3x3
 
 ***Please send the team reflection to the instructors as formatted email text and not as an attachment. Also cut and paste a copy in the ```TEAM_3x3s.docx``` word document.*** 
 
-An example typical reflection would have the following format:
+A typical individual 3x3 reflection would have the following format:
 
 ---
 
@@ -55,7 +55,11 @@ An example typical reflection would have the following format:
 > * \<\<Third goal>>
 >
 > \<\< Additional Details if needed>>
+
 ---
+A typical team 3x3 reflection would have the following format:
+
+
 > ## SUBJECT: CMSE495: \<\<TEAM NAME>> for \<\<DATE>>
 >
 > Hello CMSE495 Instructors,
