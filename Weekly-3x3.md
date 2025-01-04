@@ -10,11 +10,23 @@ It is expected that everyone will email a individual weekly Three-by-Three refle
 >   
 > Each of the 9 bullets in the 3x3 reflection should be no longer than a couple of sentences. Additional details can be placed in the same email after the report (not required).
 
-Only email your personal reflection to your team and not to the instructors. Instead copies of your personal reflections need to be added to the team's Microsoft Teams folder so that the both the team and instructors can review them as needed. It is expected that team member's will read each other's reflections and provide support and feedback either in-person or via email.  
+Only email your personal reflection to your team and not to the instructors. Instead copies of your personal reflections need to be added to the team's Microsoft Teams folder so that the both the team and instructors can review them as needed. Please add individual reflections in chronological order inside a single word file inside the Weekly3x3 folder in your team's drive. The file name should be based on your MSU NetID. For example, your instructor's netid is "colbrydi" so the file would be named ```colbrydi_3x3s.docx``` Here is the recommended structure:
+
+    Team_Folder:
+        Team_Managment_Files
+            Weekly3x3
+                <<NETID>>_3x3s.docx
+                <<NETID>>_3x3s.docx
+                <<NETID>>_3x3s.docx
+                <<NETID>>_3x3s.docx
+                <<NETID>>_3x3s.docx
+                TEAM_3x3s.docx
+
+It is expected that team member's will read each other's reflections and provide support and feedback either in-person or via email.  
 
 On Mondays each team will then summarize the information from their personal 3x3s into a team Three-by-three (3x3) reflection which they will email to the instructors (cc all team members). The team 3x3 reflection will consist of the same three major topics with exactly three bullet points but from the team's perspective. The instructors will read and respond to the team's 3x3 each week.  
 
-***Please send the team reflection to the instructors as formatted email text and not as an attachment. However, the copy in your Teams folder can be stored as a word document.*** 
+***Please send the team reflection to the instructors as formatted email text and not as an attachment. Also cut and paste a copy in the ```TEAM_3x3s.docx``` word document.*** 
 
 An example typical reflection would have the following format:
 
@@ -70,7 +82,7 @@ An example typical reflection would have the following format:
 
 ----
 
-After mailing your 3x3, put a coy of the reflection in a folder inside your team drive.
+After mailing your 3x3, don't forget to put a copy of the reflection in the file inside your team drive.
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

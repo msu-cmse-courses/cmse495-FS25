@@ -27,8 +27,12 @@ This week we just need you to create a folder for your signed NDA/IP agreements 
             Signed_NDA_Agreements.pdf
             Signed_IP_Agreements.pdf
             Weekly3x3
-                YYYYMMDD-NETID_3x3.docx
-                YYYYMMDD-TEAM_3x3.docx
+                NETID_3x3s.docx
+                NETID_3x3s.docx
+                NETID_3x3s.docx
+                NETID_3x3s.docx
+                NETID_3x3s.docx
+                TEAM_3x3.docx
             MeetingNptes
                 20240123-Weeky_meeting.docx
         Project_Deliverables
