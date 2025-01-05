@@ -54,7 +54,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 02/17 | Proposal Presentations |
 | Wednesday | 02/19 | CyberAmbassadors Lets talk |
 | Friday | 02/21 | Selection Matrix |
-| Sunday | 02/23 | ASSIGNMENT Outreach |
+| Sunday | 02/23 |  [ASSIGNMENT Outreach](0223-ASSIGNMENT_Outreach) |
 
 ## Week of February 24
 

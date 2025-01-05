@@ -13,7 +13,7 @@ Meeting agendas are required for all meetings.  Time keepers are in charge of th
 
 The note tacker is in charge of documenting what was decided and completed during the meeting. Notes are required for all meetings and should include the following:
 
-- Who Attended the meeting. Attendance
+- Who Attended the meeting.
 - List of decisions made and tasks accomplished during the meeting.
 - List of next action items including; what needs to be done, who is responsible for the item and when this task will be complete. 
 
