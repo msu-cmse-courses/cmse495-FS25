@@ -54,7 +54,7 @@ There are multiple steps required to get credit for this assignment:
 
 # Evaluation
 
-This assignment will be graded on good effort attempt to follow directions and complete the project. As always instructors will pay close attention to professionalism.  Points will be taken off for the use of any images that are in violation of copyright, NDA, IP and FIRPA laws.  
+This assignment will be graded on good effort attempt to follow directions and complete the project. As always instructors will pay close attention to professionalism.  Points will be taken off for the use of any content that is in violation of copyright, NDA, IP and FIRPA laws.  
 
 # Post Evaluation
 
