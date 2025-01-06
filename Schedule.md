@@ -72,7 +72,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 03/03 | Spring Break |
 | Wednesday | 03/05 | Spring Break |
 | Friday | 03/07 | Spring Break |
-| Sunday | 03/09 | ASSIGNMENT Install Instructions |
+| Sunday | 03/09 |  [ASSIGNMENT Install Instructions](0309-ASSIGNMENT_Install_Instructions) |
 
 ## Week of March 10
 
