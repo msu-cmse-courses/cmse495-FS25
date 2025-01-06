@@ -21,20 +21,21 @@ This week we just need you to create a folder for your signed NDA/IP agreements 
 
     Team_Folder:
         README.docx
-        Project_Description.pdf
         Team_Managment_Files
             TEAMNAME_TeamCharter.docx
-            Signed_NDA_Agreements.pdf
-            Signed_IP_Agreements.pdf
+            Singed_Agreements
+                <<NETID>>_Signed_NDA.pdf
+                <<NETID>>_Signed_IP.pdf
+                <<NETID>>_Signed_NDA.pdf
+                <<NETID>>_Signed_IP.pdf
+                ...
             Weekly3x3
-                NETID_3x3s.docx
-                NETID_3x3s.docx
-                NETID_3x3s.docx
-                NETID_3x3s.docx
-                NETID_3x3s.docx
+                <<NETID>>_3x3s.docx
+                <<NETID>>_3x3s.docx
+                ...
                 TEAM_3x3.docx
-            MeetingNptes
-                20240123-Weeky_meeting.docx
+            MeetingNotes
+                Team_meetings_Agenda_and_Notes.docx
         Project_Deliverables
             Propoal.docx
             Proposal_Storyboard.ppt
@@ -47,9 +48,9 @@ This week we just need you to create a folder for your signed NDA/IP agreements 
             Project_Slide.ppt
             TEAMNAME_Final_Report.docx
         Individual_TeamMember_files
-            Name1
-            Name2
-            Name3
+            <<NETID>>
+            <<NETID>>
+            ...
         Data_Files
             DataFile1.csv
             DataFile2.csv
@@ -477,7 +478,7 @@ If you have an IP and NDA agreement have one (and only one) person from your tea
 
 
 ---
-# Evaluation
+# Evaluation and Rubric
 
 Project will be evaluated primary looking at following directions.  
 
@@ -497,6 +498,19 @@ Your instructor will evaluate your assignment by reviewing the following:
 You will be graded on how well directions were followed and the professionalism of the submission.
 
 Points will be taken off if your signed NDA/IP agreemnts are unprofessional.  
+
+The following is an approximate rubric that will be used as a guild for evaluating this assignment. 
+
+|                                                                |                            Meets  Expectations                        |                        Needs Improvement                    |              Incomplete          |   |
+|----------------------------------------------------------------|:---------------------------------------------------------------------:|:-----------------------------------------------------------:|:--------------------------------:|---|
+| Repository README | Includes description of class and project (10 pts) | Present but lacking detail (5 pts) | Missing (0 pts)
+| Repository gitignore| Present and includes approriate filetypes (5 pts) | Present but lacking important details (2 pts) | Missing (0 pts) 
+| license | Present and correct (10 pts) | Incorrect license or doesn't meet NDA/IP agreement (5 pts) | Missing (0 pts)
+|      Repository forking/cloning   |     Repo can be forked and cloned from link in team charter (10 pts)                          |    Repo premissions are incorrect (5 pts)                      |     Repo cannot be forked/clones (0 pts)    
+| NDA/IP Agreements | Complete and correctly located (10 pts) | Not correctly located or nonprofessional (5 pts) | Missing (0 pts)
+|      Team Charter Content                                      |     Charter includes all required sections and contact info (45 pts)  |     Charter missing at least one required element (35 pts)  |     No charter provided (0 pts)  |   |
+|      Team Charter & Repository Formatting                      |     Overall repository well-organized (10 pts)                        |     Some repository organizational issues (5 pts)           |  Major missing or incomplete components (0 pts)   |   |
+
 
 ---
 # Post-Evaluation

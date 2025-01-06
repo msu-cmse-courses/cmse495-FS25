@@ -12,6 +12,8 @@ In this assignment you will communicate your project plan to your community part
 # Evaluation
 The following basic grading rubric instructors will try to use to evaluate your proposal
 
+
+
     Grading Overall
     10 points - Project title and Picture
     20 points - Overview
@@ -20,9 +22,9 @@ The following basic grading rubric instructors will try to use to evaluate your 
     20 points - Timeline
     20 points - Anticipating Challenges
 
-    Grading Rubric
+    Example Rubric
     -5 Leaving in instructions in report.
-    -5 Any Sloppy formatting
+    -5 Sloppy formatting
 
 # Submission
 Compose a professional email to your project community partners. Include a pdf of your project plan.  Carbon Copy (CC) all members of your team (including yourself) and CC the course instructors.
