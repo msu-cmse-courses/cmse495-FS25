@@ -161,8 +161,7 @@ Accompanying course information, including the official course calendar, can be 
 
 ## Course Meeting Time and Location
 
-
-Classes will meet weekly on **_Monday, Wednesday and Friday 3:00-4:20pm in Engineering Building 1145_**.
+Classes will meet weekly on **_Monday, Wednesday and Friday 3:00-4:20pm in Engineering Building room 1145_**.
 
 If, during the semester there is a need, we have set aside the following zoom room for this course. Teams must notify the instructor before class if one of their members needs to connect to class remotely (ex. due to illness or travel).  
 

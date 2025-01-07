@@ -1,6 +1,8 @@
 # Course Schedule  
 
-Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Mondays when we have class.
+In spring of 2025, class will meet weekly on **_Monday, Wednesday and Friday 3:00-4:20pm in Engineering Building room 1145_**.
+
+Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Mondays on days we have class.
 
 ## Week of January 13
 
