@@ -26,8 +26,8 @@ Reminder of some things to consider for the video:
     - Describe the overall goals of the project.
     - Describe your plan and timeline for a successful project.
     - Describe the major open-loops** that will need to be solved (closed).  
-    - Describe how the work will be broken up.
-    - Describe the expected successful outcomes. 
+    - Describe how the work will be broken up and solved.
+    - Describe you you will measure successful outcomes. 
 - Plan to not exceed the 5 minute video length. (we need to watch all videos in class so shorter is better).  
 
 We really want to see creativity.  Think outside of slides and talking. Demonstrate to us why your project is awesome!

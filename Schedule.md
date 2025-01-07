@@ -81,7 +81,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 03/10 | Install Instruction Review |
 | Wednesday | 03/12 | CyberAmbassadors Its Complicated |
 | Friday | 03/14 | Tutorial Development |
-| Sunday | 03/16 | ASSIGNMENT MVP Presentation Storyboard |
+| Sunday | 03/16 |  [ASSIGNMENT MVP Presentation Storyboard](0316-ASSIGNMENT_MVP_Presentation_Storyboard) |
 
 ## Week of March 17
 
@@ -90,7 +90,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 03/17 | MVP Presentation Storyboard Review |
 | Wednesday | 03/19 | CyberAmbassadors Leading the Team |
 | Friday | 03/21 | Tutorial Pull Requests |
-| Sunday | 03/23 | ASSIGNMENT MVP Video |
+| Sunday | 03/23 |  [ASSIGNMENT MVP Video](0323-ASSIGNMENT_MVP_Video) |
 
 ## Week of March 24
 

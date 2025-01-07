@@ -19,7 +19,7 @@ For this project milestone you will make a "[storyboard](https://en.wikipedia.or
 A storyboard helps in planning a video and makes sure you keep in your time frame (3-5 minutes).  Typically a storyboard is a series of images or drawings which include the following components: 
 
 * Description or image of what will be seen in the video.
-* Draft script of what will be said during the video.
+* Draft script of what will be said during the video (use the notes field).
 * Planned time for each component of the video. 
 
 One of the best tools for building a storyboard are a slide tool such as PowerPoint. Use the slide to show or describe what will be displayed and then use the notes box to indicate the time spent and use the notes section to draft script of what will be said. 

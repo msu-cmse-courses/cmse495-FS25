@@ -194,7 +194,7 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 **_Web_**:  <http://www.dirk.colbry.com>  
 **_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/)  
 **_Virtual Office_**:  [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi)  
-**_Office Hours_**:  Mondays 1:00-2:30pm In my office ([EB 1516)](https://cmse.msu.edu/About/directions.aspx))  
+**_Office Hours_**:  Mondays 1:00-2:30pm In my office ([EB 1516](https://cmse.msu.edu/About/directions.aspx))   
 
 * Please visit <http://bookdirk.colbry.com/> to schedule an appointment.
 
