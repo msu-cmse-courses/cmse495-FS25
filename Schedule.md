@@ -110,7 +110,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 03/31 | Figure Reproducibility Review |
 | Wednesday | 04/02 | CyberAmbassadors Leading with Principles |
 | Friday | 04/04 | Tutorial Presentations |
-| Sunday | 04/06 | ASSIGNMENT Full Project Draft |
+| Sunday | 04/06 |  [ASSIGNMENT Full Project Draft](0406-ASSIGNMENT_Full_Project_Draft) |
 
 ## Week of April 7
 
