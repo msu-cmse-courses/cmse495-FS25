@@ -1,4 +1,4 @@
-# Saturday January 13 - Welcome
+# Welcome
 
 
 ## Agenda (80 Minutes)
