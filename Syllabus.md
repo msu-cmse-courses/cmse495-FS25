@@ -3,13 +3,11 @@
 ## Course Description
 The data science capstone course is intended to provide students with an opportunity to put together what they have learned across multiple courses to develop a final project that demonstrates their ability to work in a team on real-world problems.
 
-The capstone course has three major goals:
+The capstone course has the following learning goals:
 
 1. Provide students with a high impact, end-to-end project experience where they can apply classroom experiences and data science skills to solve real-world problems. 
-2. Provide students with opportunities to learn and practice professional skills (communication, teamwork and leadership) in the context of team-based projects.
+2. Provide students with opportunities to learn and practice professional skills (resilience, professionalism, communication, teamwork and leadership) in the context of team-based projects.
 3. Provide opportunities for students and faculty in the department to build relationships and network with industry partners, community organizations, and campus colleagues. 
-
-
 
 
 ## Course Format and Activities
