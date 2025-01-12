@@ -122,7 +122,7 @@ There are a variety of course activities, with percentages of total grade listed
 |----------|------------------|
 | In-Class Participation | 10 |
 | Team Logistics | 10 | 
-| DataTools Tutorial Development | 15 | 
+| SCHOLAR Tutorial Development | 15 | 
 | Project Milestones | 20 |
 | Individual teamwork score | 20 |
 | Final Project Deliverables | 25 |
