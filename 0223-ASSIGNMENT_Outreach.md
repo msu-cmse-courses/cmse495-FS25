@@ -9,6 +9,8 @@ During class, the instructors will pass out this [Media Release form](CMSE495_Me
 
 Do not put anything in the assignment that you are unwilling to share or that violates any agreements or laws.  If you decide to include any personal information such as your names and/or your pictures then you ***MUST*** also check the corresponding boxes on the Media Release form. 
 
+If your team decides to release any videos and/or git repositories (Everyone must be in agreement) then you should change the permissions of the files so that the appropriate audience can access them. For example, if you are using gitlab you will want to set your repository to either publicly viewable or internally viewable.  This way the instructor can link directly to your accounts without having to download copies. 
+
 Be creative, this is a fairly simple milestone (on purpose so you can be working on your primary project goals), however it is also an opportunity to show off a bit and share what you are doing with friends, family and possibly even future employers. 
 
 **_WARNING_** You are responsible for ensuring the content in your slides do not violate your NDAs, IP agreements, FIRPA and copyright laws and that the proper release forms have been submitted.  Check with your community partner and your instructor if you need verification. 
