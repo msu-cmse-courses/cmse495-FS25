@@ -153,6 +153,8 @@ Again, the ```README``` file is  extremely important and should be the first "to
 
 Here is an example projects you can download from a different course with a similar structure. Note these may have had slightly different expectation and assignment goals relative to your project but are still good representation of the types of projects that would be acceptable for this course.  Projects shared with permission by former students:
 
+- [F24 Intramotev Autonomous Trains Object Detection](https://github.com/aryandhr/Autonomous-Trains-Object-Detection)
+- [F24 TwoSix Fuzzy LLMs](https://github.com/riggsash/TwoSix_LLM)
 - [F19 Neutrino Winds - By Brian Nevins](https://github.com/bnevs88/neutrino-winds)
 - [F19 Enhanced sampling Methods - By Nicole Roussey](https://gitlab.msu.edu/roussey1/nmr_fs19_cmse802.git)
 - [F19 Visualization of the Transport of Small Molecules on Peptides - By Xie Yan](https://gitlab.msu.edu/xieyan/yanxiecmse802.git)
