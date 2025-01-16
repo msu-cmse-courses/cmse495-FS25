@@ -415,9 +415,9 @@ Copy and paste your chosen license file into a file named ```./LICENSE```
 
 The following articles are a great resource for learning the types of terminology and logic used when talking about software License.  
 
-* https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598
-* [https://choosealicense.com/](https://choosealicense.com/)
-* https://creativecommons.org/licenses/
+* <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598>
+* <https://choosealicense.com/>
+* <https://creativecommons.org/licenses/>
 
 **_Make sure you talk to your instructors to know what type of license is appropriate for your project given.  What license you use may also depend on the IP agreement made with you and the community partner._**
 

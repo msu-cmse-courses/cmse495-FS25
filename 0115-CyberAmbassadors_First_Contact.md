@@ -14,7 +14,7 @@ Welcome Serena Lotreck as a guest facilitator
 
 # 1. First Contact
 
-[Link to First Contact slides](https://docs.google.com/presentation/d/19Ai35DTNmqjgeKytnT84bsFknKb3eEO1itVMCOEqP3w/edit?usp=sharing)
+[Link to First Contact slides](https://docs.google.com/presentation/d/1yuLxlqtxzNWAXX-UQSNVKZA_NjIERgY3HthxPPqooqI/edit?usp=sharing)
 
 # 2. Project Review
 
