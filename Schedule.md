@@ -26,9 +26,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 01/27 | Anticpating Challenges |
-| Wednesday | 01/29 | CyberAmbassadors Speaking up |
-| Friday | 01/31 | SCHOLAR Review |
+| Monday | 01/27 |  [Anticpating Challenges](0127-Anticpating_Challenges) |
+| Wednesday | 01/29 |  [CyberAmbassadors Speaking up](0129-CyberAmbassadors_Speaking_up) |
+| Friday | 01/31 |  [SCHOLAR Review](0131-SCHOLAR_Review) |
 | Sunday | 02/02 |  [ASSIGNMENT Plan](0202-ASSIGNMENT_Plan) |
 
 ## Week of February 3
