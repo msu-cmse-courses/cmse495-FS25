@@ -18,18 +18,6 @@ Your team's task for the day is to go through one of the tutorials (assigned by 
 - (20 minutes) Group co-work time
 
 
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    Cell In[1], line 1
-    ----> 1 reviewlist
-
-
-    NameError: name 'reviewlist' is not defined
-
-
 ----
 <a name="Group_programming_Project"></a>
 # 1. Group Review of the Data Tools Tutorial Demo (DTTD)
