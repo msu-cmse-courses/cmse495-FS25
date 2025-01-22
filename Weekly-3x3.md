@@ -1,6 +1,6 @@
 # Weekly 3x3 Updates (Due Mondays)
 
-It is expected that everyone will email a individual weekly Three-by-Three reflection to their capstone team on or before class on Monday. Then on Monday the team will summarize their individual 3x3's into one group 3x3 reflection that they send to their instructor for feedback:
+After team's have been assigned is expected that everyone will email a individual weekly Three-by-Three reflection to their capstone team on or before class on Mondays on days the class meets. Then on Monday the team will summarize their individual 3x3's into one group 3x3 reflection that they send to their instructor for feedback:
 
 > A 3x3 reflection consists of three major topics with exactly three bullet points in each topic (not 2 or 4). The three topics include:
 > 
@@ -10,7 +10,7 @@ It is expected that everyone will email a individual weekly Three-by-Three refle
 >   
 > Each of the 9 bullets in the 3x3 reflection should be no longer than a couple of sentences. Additional details can be placed in the same email after the report (not required).
 
-Only email your personal reflection to your team and not to the instructors. Instead copies of your personal reflections need to be added to the team's Microsoft Teams folder so that the both the team and instructors can review them as needed. Please add individual reflections in chronological order inside a single word file inside the Weekly3x3 folder in your team's drive. The file name should be based on your MSU NetID. For example, your instructor's netid is "colbrydi" so the file would be named ```colbrydi_3x3s.docx``` Here is the recommended structure:
+Only email your personal reflection to your team and not to the instructors. Instead copies of your personal reflections need to be added to the team's Microsoft Teams folder so that both the team and instructors can review them as needed. Please add individual reflections in chronological order inside a single word file inside the Weekly3x3 folder in your team's drive. The file name should be based on your MSU NetID. For example, your instructor's netid is "colbrydi" so the file would be named ```colbrydi_3x3s.docx``` Here is the recommended structure:
 
     Team_Folder:
         Team_Managment_Files

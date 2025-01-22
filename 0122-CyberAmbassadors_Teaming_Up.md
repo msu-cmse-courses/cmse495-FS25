@@ -14,7 +14,7 @@
 
 By now you should have received an email from your instructor with your assigned project and team names/emails. We will breakout into your teams for today's activities. Some things to note:
 
-* Once you turn in your NDA and IP agreements I can give you access to a private channel for your team.  Once Created please verify that all team members have access to the channel as well as the instructors.   
+* **Updated Note January 22, 2025:** Please do not sign any IP or NDA agreements yet.  The wording on some of the forms provided may be incorrect. I am waiting for MSU legal team and the community partners to approve the new wording. I will put the approved forms in your specific team channel "file" folder for you to review when they are ready.  We will talk about this more in class. 
 * Teams are expected to sit together in class.  At the beginning of each class each team will be expected to put up a "team name tag". This sign will include the team name, the community partner logo (if there is one) and a list of all members of the team.  
 
 Reminder, the [Project Orginization assignment](0126-ASSIGNMENT_Project_Organization) is due on Sunday
