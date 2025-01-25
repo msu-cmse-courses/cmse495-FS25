@@ -49,17 +49,17 @@ As a group, spend about 30 minutes to review the handout of the remainder of the
 
 # Team Charter Review
 
-This is a team paring exercise.  You review the team charter for the other's team (see table below). Have someone from the team that wrote the team charter present it to the group (10 minutes).  Discuss key features and how you try to anticipate challenges for the semester.  Have the group brainstorm ideas to make the team charter even better.  Type up your feedback to the other group. 
+This is a team paring exercise.  Your instructor has put you into the following team of teams (aka Tripod).  
 
-| Team A | Team B | Team C | 
-|--------|--------|--------| 
-| Documenters - Leadership Dossiers | MSU - Grapes |  |
-| MSU - University Wellness Database | MSU - Justice for Otego |  |
-| Grassroots | HFH - Pre / Post Operative Comparison |  |
-| HFH - Motion Tracking | QSIDE - Act-Now |  |
-| TwoSix - Public Feedback on Environment | HAP - At Risk Populations |  |
-| CEPI - Effective Communications | HFH - Revenue Cycle |  |
-| TechSmith - Healthy and Engaged User Data Exploration   | MSU - Healthy City Assessment | HFH - Imaging QC |
+| Tripod | Team A | Team B | Team C |
+|--------|--------|--------|--------|
+| 1 | CEPI | HFH_RC | MSU_WD |
+| 2 | HFH_MT | HFH_QC | MSU_GR |
+| 3 | HAP    | HFH_PP | TechSmith |
+| 4 | Documenters | Grassroots | TwoSix | 
+| 5 | MSU_HC | MSU_JO | QSIDE |
+
+In a circular path, review the team charter for the other teams. Have someone from the team that wrote the team charter present it to another team (10 minutes).  Discuss key features and how you try to anticipate challenges for the semester.  Have the reviewing team brainstorm ideas to make the charter even better.  Type up your feedback and share with the other groups. 
 
 # Sharing with the class
 

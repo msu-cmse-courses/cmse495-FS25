@@ -50,20 +50,17 @@ I would like to try shout out outs in class. We are a big group. Please put shou
 
 # Project Plan Reviews
 
-Exchange project plans with another team (figure out how to connect with them and send the document, a pdf is fine):
+Exchange project plans with your tripod team (figure out how to connect with them and send the document, a pdf is fine):
 
-| Team A | Team B | Team C | 
-|--------|--------|--------| 
-| MSU HC - Healthy City Assessment | QSIDE - Act-Now | |
-| HFH QC - Imaging QC | HFH MT - Motion Tracking | |
-| Grassroots | MSU WD - University Wellness Database | |
-| CEPI - Effective Communications | HAP - At Risk Populations | |
-| TwoSix - Public Feedback on Environment | MSU JO - Justice for Otego | |
-| TechSmith - Healthy and Engaged User Data Exploration | HFH RC - Revenue Cycle | |
-| MSU GR - Grapes | HFH PP - Pre / Post Operative Comparison | |
-| TwoSix - Public Feedback on Environment | MSU JO - Justice for Otego |  Documenters - Leadership Dossiers |
+| Tripod | Team A | Team B | Team C |
+|--------|--------|--------|--------|
+| 1 | CEPI | HFH_RC | MSU_WD |
+| 2 | HFH_MT | HFH_QC | MSU_GR |
+| 3 | HAP    | HFH_PP | TechSmith |
+| 4 | Documenters | Grassroots | TwoSix | 
+| 5 | MSU_HC | MSU_JO | QSIDE |
 
-As a group review their proposal and provide them some constructive feedback.  The more you can provide the better.  Some things to think about include the following:
+As a group review the other team's proposal and provide them some constructive feedback.  The more you can provide the better.  Some things to think about include the following:
 
 - Did you understand the goal and plan for this project? If not, what questions were not answered?
 - Do you have any recommendations for the other team.
