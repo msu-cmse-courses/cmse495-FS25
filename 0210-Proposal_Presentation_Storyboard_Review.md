@@ -32,9 +32,12 @@ Let's take some time try to understand each other's projects and figure out how 
 To make things easier we will identify and share project attributes.  
 
 ## Step 1: Team Meeting
-As a team review the questions in the following form.   Agree on answers and have one person (only one) person from each team fill out the form:
+As a class let's review the questions in the following form.   Let the instructors know if there is a question or option missing.  We may be able to do a live update of the form. 
+
+Once all updates have been made, have your team agree on answers and have one person (only one) from each team fill out the form:
 
 [Direct link to Project Comparison Survey](https://docs.google.com/forms/d/e/1FAIpQLSehQfNpLIajyn4IaNI0ITYxpn-i5pnlHbQtL5g9iBcw6lO0UQ/viewform?usp=preview)
+
 
 
 ## Step 2: Review Results
@@ -63,7 +66,7 @@ This is a team paring exercise.  Your team will work with your tripod to review 
 | 4 | Documenters | Grassroots | TwoSix | 
 | 5 | MSU_HC | MSU_JO | QSIDE |
 
-As a group, write an email report for the instructor and the other team. This report should provide the following:
+Have your tripods exchange links to your video storyboard.  Review another team's storyboard and write an email report for the instructor and the other team. This report should provide the following:
 
 - List the proposal team name and the evaluator team name.
 - Ideas for making the video better.
