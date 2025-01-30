@@ -44,9 +44,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 02/10 | Proposal Presentation Storyboard Review |
-| Wednesday | 02/12 | Community Engaged Learning II |
-| Friday | 02/14 | SCHOLAR Presentations |
+| Monday | 02/10 |  [Proposal Presentation Storyboard Review](0210-Proposal_Presentation_Storyboard_Review) |
+| Wednesday | 02/12 |  [Community Engaged Learning II](0212-Community_Engaged_Learning_II) |
+| Friday | 02/14 |  [SCHOLAR Presentations](0214-SCHOLAR_Presentations) |
 | Sunday | 02/16 |  [ASSIGNMENT Plan Video](0216-ASSIGNMENT_Plan_Video) |
 
 ## Week of February 17

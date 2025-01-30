@@ -20,7 +20,7 @@ Your team's task for the day is to go through one of the tutorials (assigned by 
 
 ----
 <a name="Group_programming_Project"></a>
-# 1. Group Review of the Data Tools Tutorial Demo (DTTD)
+# 1. Group SCHOLAR Review
 
 The following is a list of teams and the an assigned tutorial form previous semesters.  
 
@@ -47,7 +47,7 @@ The following is a list of teams and the an assigned tutorial form previous seme
 
 Your group is expected to review all of the tutorials. However, today we will start with just this small set.  As a group do the following:
 
-1. Clone the [DTTD](https://gitlab.msu.edu/CMSE/datatools_tutorial_demo) repository.
+1. Clone the [SCHOLAR](https://gitlab.msu.edu/CMSE/SCHOLAR) repository.
 2. Follow the directions and get your tutorials "working". 
 3. Add "issues" to the git issue list for all things that need to be improved in the tutorial. Make sure the issue is well written and clearly states the file/tutorial that needs fixing.  Every student should add at least one issue for that person to get credit.
 
