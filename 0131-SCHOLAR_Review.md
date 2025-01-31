@@ -22,7 +22,7 @@ Your team's task for the day is to go through one of the tutorials (assigned by 
 <a name="Group_programming_Project"></a>
 # 1. Group SCHOLAR Review
 
-The following is a list of teams and the an assigned tutorial form previous semesters.  
+The following is a list of teams and the assigned tutorials from previous semesters.  
 
 | Team | Tutorial|
 |---|---------|
