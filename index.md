@@ -10,7 +10,7 @@ The capstone course has three major goals:
 3. Provide opportunities for students and faculty in the department to build relationships and network with industry partners, community organizations, and campus colleagues. 
 
 ## Team Projects
-Michigan State University and the Department of Computational Mathematics Science and Engineering would like to thank these generous community partners for supporting our students.  A list of past community partners can be found by clicking on the following link:
+Michigan State University and the Department of Computational Mathematics Science and Engineering would like to thank these generous community partners for supporting our students.  A list of past community partners can be found by clicking on the following links:
 
 - [Spring 2022 Partner List](./Partners-2022)
 - [Spring 2023 Partner List](./Partners-2023)
@@ -36,6 +36,7 @@ When possible, the majority of time outside of class will be dedicated to tasks 
 - [Instructions for Team Meeting Agenda and Notes](Meetings-Notes_and_agendas)
 - [SCHOLAR Git Repository](https://gitlab.msu.edu/CMSE/SCHOLAR)
 - [Requesting Funding](Requesting-Funding)
+- [Equipment Checkout Form](https://docs.google.com/forms/d/e/1FAIpQLSd-OmLMiH1cf7Gh7zBrbwtWMhsLS3rNCYc2vv3m7cANNmKJIQ/viewform)
 
 ## Other Recommended Resources
 - [Dirk's Git Guide](https://msu-cmse-courses.github.io/cmse802-f20-student/0000-Getting-to-know-git.html)
