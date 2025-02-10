@@ -49,7 +49,7 @@ This document may be tricky to interpret so feel free to download the document a
 
 
 ## Step 3: Individual Opinions
-Once you have a good feel about the projects, fill out the following distance matrix as best you can.  Start with your project and assign the value of zero (0) then rank all of the remaining projects on a scale of 1-9 with 1 being the most similar and 9 being the least similar.  This is a personal perception of the project (don't just copy a teammates).  
+Once you have a good feel about the projects, fill out the following distance matrix as best you can.  Start with your project and assign the value of zero (0) then rank all of the remaining projects on a scale of 1-14 with 1 being the most similar and 14 being the least similar.  This is a personal perception of the project (don't just copy a teammates). 
 
 [Direct link to google form](https://docs.google.com/forms/d/18W3FIoOTZOwfXGB1ZdZUISbaLpZqZiSMd9ks6aAR5s0/viewform)
     
