@@ -62,9 +62,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 02/24 | Outreach Review |
-| Wednesday | 02/26 | CyberAmbassadors Leveling Up |
-| Friday | 02/28 | Tutorial Selection |
+| Monday | 02/24 |  [Outreach Review](0224-Outreach_Review) |
+| Wednesday | 02/26 |  [CyberAmbassadors Leveling Up](0226-CyberAmbassadors_Leveling_Up) |
+| Friday | 02/28 |  [Tutorial Selection](0228-Tutorial_Selection) |
 | Sunday | 03/02 | Nothing Due (Spring Break) |
 
 ## Week of March 3
