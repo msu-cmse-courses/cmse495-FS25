@@ -2,8 +2,9 @@
 
 ## Agenda (80 Minutes)
 
+- (15 minutes) Group matrix meeting
 - (30 minutes) Team building Exercise
-- (50 minutes) Group Meeting
+- (35 minutes) Group Meeting
 
 
 ---
