@@ -2,8 +2,8 @@
 
 ## Agenda (80 Minutes)
 
-- (10 minutes) Introducing Selection Matrix
-- (70 minutes) Group Meeting
+- (30 minutes) Team building Exercise
+- (50 minutes) Group Meeting
 
 
 ---
