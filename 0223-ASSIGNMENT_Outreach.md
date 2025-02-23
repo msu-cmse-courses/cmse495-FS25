@@ -5,7 +5,7 @@
 
 The goal of this milestone is to share what you are doing with the community outside the classroom without violating any laws and agreements such as copyright, NDAs,  IP agreements, FIRPA, etc.  Teams will put together a blog post (news article) and a single PowerPoint Slide to highlight their project and their community partners.  The blog post will go on the course website (and may be highlighted on either the department, college or even university website) and the slides will be used on the hallway TVs outside the main CMSE office and maybe also on the website.  You can also use this short description in your project README or as part of your final report abstract. 
 
-During class, the instructors will pass out this [Media Release form](CMSE495_Media_Release_From).  All students must fill out the form to get credit for this assignment. However, you are not required to release any of your personal information. You may want to review [FIRPA website](https://aacc.msu.edu/compliance/ferpa) to better understand your rights about your data. 
+During class, the instructors will pass out this [Media Release form](./Files/CMSE495_Media_Release_From.pdf).  All students must fill out the form to get credit for this assignment. However, you are not required to release any of your personal information. You may want to review [FIRPA website](https://aacc.msu.edu/compliance/ferpa) to better understand your rights about your data. 
 
 Do not put anything in the assignment that you are unwilling to share or that violates any agreements or laws.  If you decide to include any personal information such as your names and/or your pictures then you ***MUST*** also check the corresponding boxes on the Media Release form. 
 
@@ -47,7 +47,7 @@ There are multiple steps required to get credit for this assignment:
 
 1. ***Turn in the assignment files:*** Place a copy in your team drive and email a copy/link to your instructors. Make sure these files are turned in on or before the due date.
 
-2. ***Sign the [Media Release form](CMSE495_Media_Release_From):*** Sign and turn in a paper copy.  Your instructor will have copies of the from in class so you don't have to print them.  However the instructors do need a physical copy for our files. 
+2. ***Sign the [Media Release form](./Files/CMSE495_Media_Release_From.pdf):*** Sign and turn in a paper copy.  Your instructor will have copies of the from in class so you don't have to print them.  However the instructors do need a physical copy for our files. 
 
 3. ***Final Approval***: After your assignments have been evaluated and you have addressed the feedback from your instructors you need to email a copy/link of the final blog post and slide to your community partner (cc the instructors) for final approval before we can post to any public form. 
 
