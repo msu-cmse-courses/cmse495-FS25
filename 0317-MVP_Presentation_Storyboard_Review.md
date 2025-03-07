@@ -5,7 +5,11 @@
 - (50 minutes) Storyboard Review
 - (30 minutes) Group meeting
 
-# Storyboard Review
+## NEW Tripods
+
+Hey class, we are going to try out new Tripods this round. Please see list below!!
+
+## Storyboard Review
 
 This is a team tripod exercise.  Your team will work with another team in your tripod to review your MVP video storyboards.   As a group, write an email report for the instructor and the other team. This report should provide the following:
 
@@ -14,13 +18,13 @@ This is a team tripod exercise.  Your team will work with another team in your t
 
 Make sure you title the email and make it clear your group name and the group you are reviewing).  Email the group and the instructors to get credit. 
 
-| Tripod | Team A | Team B | Team C |
+| Tripod V2 | Team A | Team B | Team C |
 |--------|--------|--------|--------|
-| 1 | CEPI | HFH_RC | MSU_WD |
-| 2 | HFH_MT | HFH_QC | MSU_GR |
-| 3 | HAP    | HFH_PP | TechSmith |
-| 4 | Documenters | Grassroots | TwoSix | 
-| 5 | MSU_HC | MSU_JO | QSIDE |
+| 1 | CEPI | HFH_MT | HAP |
+| 2 | Documenters | MSU_HC | HFH_RC |
+| 3 | HFH_QC    | HFH_PP | Grassroots |
+| 4 | MSU_JO | MSU_WD | MSU_GR | 
+| 5 | TechSmith | TwoSix | QSIDE |
 
 # Next Week! Minimum Viable Product Videos
 

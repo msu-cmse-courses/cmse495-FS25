@@ -15,19 +15,19 @@ Do we have any shout outs for this week?  How are things going?
 
 
 
-----
+## ----
 
 # Install Instruction Reviews
 
 This is a team paring exercise.  Your team will work with your tripod to review your projects install instructions. Split each of your teams into two groups of 2-3 people.  Have your bigger group stay at your table to be the "Host Team" and the smaller group move to be the "Guest Team" at another table. 
 
-| Tripod | Team A | Team B | Team C |
+| Tripod V2 | Team A | Team B | Team C |
 |--------|--------|--------|--------|
-| 1 | CEPI | HFH_RC | MSU_WD |
-| 2 | HFH_MT | HFH_QC | MSU_GR |
-| 3 | HAP    | HFH_PP | TechSmith |
-| 4 | Documenters | Grassroots | TwoSix | 
-| 5 | MSU_HC | MSU_JO | QSIDE |
+| 1 | CEPI | HFH_MT | HAP |
+| 2 | Documenters | MSU_HC | HFH_RC |
+| 3 | HFH_QC    | HFH_PP | Grassroots |
+| 4 | MSU_JO | MSU_WD | MSU_GR | 
+| 5 | TechSmith | TwoSix | QSIDE |
 
 Once the mixed teams are formed, have the host team walk the guest team through the install instructions.  If possible pair up in the newly formed teams and have members from the guest team try to install the software from scratch from either their personal laptop or a personal account such as the HPCC, jupyterhub or googlecolab.
 
