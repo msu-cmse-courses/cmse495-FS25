@@ -15,7 +15,13 @@ Do we have any shout outs for this week?  How are things going?
 
 
 
-## ----
+----
+
+## NEW Tripods
+
+Hey class, we are going to try out new Tripods this round. Please see list below!!
+
+----
 
 # Install Instruction Reviews
 

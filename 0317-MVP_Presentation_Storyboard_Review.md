@@ -5,10 +5,6 @@
 - (50 minutes) Storyboard Review
 - (30 minutes) Group meeting
 
-## NEW Tripods
-
-Hey class, we are going to try out new Tripods this round. Please see list below!!
-
 ## Storyboard Review
 
 This is a team tripod exercise.  Your team will work with another team in your tripod to review your MVP video storyboards.   As a group, write an email report for the instructor and the other team. This report should provide the following:
