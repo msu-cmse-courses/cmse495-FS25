@@ -18,7 +18,10 @@ Please take a few minutes to think about ways the instructors can improve this c
 
 # Continue to work on tutorials
 
-Finish up your tutorials
+Today we will be working on finishing up your tutorials and submitting pull requests to the SCHOLAR.  
+
+When you finish your tutorial submit it to the SCHOLAR repository as a pull request.  The documentation management team will accept the pull request (DO NOT BREAK THE BUILD). 
+
 
 ---
 # Submit Pull Request
