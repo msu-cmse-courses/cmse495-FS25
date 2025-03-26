@@ -116,18 +116,18 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 04/07 | Full Project Review |
-| Wednesday | 04/09 | Project CoWork |
-| Friday | 04/11 | Project CoWork |
+| Monday | 04/07 |  [Full Project Review](0407-Full_Project_Review) |
+| Wednesday | 04/09 |  [Project CoWork](0409-Project_CoWork) |
+| Friday | 04/11 |  [Project CoWork](0411-Project_CoWork) |
 | Sunday | 04/13 |  [ASSIGNMENT Final Presentation Storyboard](0413-ASSIGNMENT_Final_Presentation_Storyboard) |
 
 ## Week of April 14
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 04/14 | Final presentation Storyboard Feedback |
-| Wednesday | 04/16 | Project CoWork |
-| Friday | 04/18 | Project CoWork |
+| Monday | 04/14 |  [Final presentation Storyboard Feedback](0414-Final_presentation_Storyboard_Feedback) |
+| Wednesday | 04/16 |  [Project CoWork](0416-Project_CoWork) |
+| Friday | 04/18 |  [Project CoWork](0418-Project_CoWork) |
 | Sunday | 04/20 |  [ASSIGNMENT Final Project](0420-ASSIGNMENT_Final_Project) |
 
 ## Week of April 21
