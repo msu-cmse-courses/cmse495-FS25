@@ -2,16 +2,7 @@
 
 ## Agenda (80 Minutes)
 
-- (20 minutes) Announcements and Professional Skills Presentation
-- (60 minutes) Group one-on-one presentations
-
----
-
-# Announcements and Professional Skills Presentation
-
-We will spend a few minutes doing team "shout outs" and the instructors will give a short presentation about professional skills not covered in the CyberAmbassador Curriculum. 
-
-### No More Quizzes ###
+- (80 minutes) Group one-on-one presentations
 
 ---
 # Group one-on-one presentations
