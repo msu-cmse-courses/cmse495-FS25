@@ -60,8 +60,8 @@ The tentative project timeline for Fall 2025 / Spring 2026 semesters is outlined
 | Week          | Description                                    |
 | ------------- | ---------------------------------------------- |
 | Now - July 15th | Seek out potential community partners for both the Fall 2025 and Spring 2026 Semesters. |
-| Now - August 1th | Meet with commmunity partners to develop project plan and work on agreements | 
-| August 1th | Finish agreements (NDA/IP) between MSU and community partners |
+| Now - August 1st | Meet with commmunity partners to develop project plan and work on agreements | 
+| August 1st | Finish agreements (NDA/IP) between MSU and community partners |
 | August 1st - August 15th  | Finalize and upload project descriptions to website | 
 | August 1st - August 15th  | Community Partners Provide Data and Resources to Instructors | 
 
