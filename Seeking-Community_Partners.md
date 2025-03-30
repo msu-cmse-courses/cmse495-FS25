@@ -4,7 +4,7 @@ Department of Computational Mathematics, Science, and Engineering
 Michigan State University  
 <http://cmse.msu.edu/cmse495>
 
-The Department of Computational Mathematics, Science, and Engineering (CMSE) at Michigan State University (MSU) is seeking community partners<sup>1</sup> to support projects in the Data Science Capstone Course. The broad goals of this capstone course are: (1) to provide practical, team-based, project development experiences to MSU’s senior undergraduate data science students, and (2) to help our partners make connections with data science students that may support the community partner’s technical and/or recruiting needs. 
+The Department of Computational Mathematics, Science, and Engineering (CMSE) at Michigan State University (MSU) is seeking community partners<sup>1</sup> for both Fall of 2025 and Spring of 2026. Community partners provide real world projects for students in the Data Science Capstone Course. The broad goals of this capstone course are: (1) to provide practical, team-based, project development experiences to MSU’s senior undergraduate data science students, and (2) to help our partners make connections with data science students that may support the community partner’s technical and/or recruiting needs. 
 
 If you are interested please considering filling out the [MSU Data Science Community Partner Connection Form](https://docs.google.com/forms/d/e/1FAIpQLSf5BgOa_6cWDkZeaGiz75VI4s3FbyG5lq3MRSBrrlzi5UNiuQ/viewform) and we will get back to you!
 
@@ -40,7 +40,7 @@ In an effort to build relationships and try to obtain the best project outcomes,
 
 Interested community partners are encouraged to contact Dr. Dirk Colbry (colbrydi@msu.edu) as far in advance as possible. An initial meeting will be scheduled to share more information and determine whether this opportunity is a good fit for the community partner’s interests and needs.  
 
-In general, community partners who choose to move forward would work with the instructor to complete the following tasks during Fall 2024:  
+In general, community partners who choose to move forward would work with the instructor to complete the following tasks during Summer Semester 2025:  
 
 * Work with Dr. Colbry to develop an appropriate project description. 
 * Prepare any necessary agreements for the project (e.g., expectations about intellectual property, non-disclosure agreements, software/hardware resources, data/information security restrictions)  
@@ -48,26 +48,22 @@ In general, community partners who choose to move forward would work with the in
 * (optional) Provide a logo to include on the CMSE 495 course website.  
 * (optional) Approve a press release and article about the partnership that will be posted on the CMSE department website, and may be picked up and distributed by other news outlets. 
 
-### Key tasks during Spring 2025 include: 
+### Key tasks to support capstone team during the semester include: 
 
-* Provide regular feedback on project deliverables, and guidance and mentoring to the student team during the semester (mid January 2025 through early May 2025) 
+* Provide regular feedback on project deliverables, and guidance and mentoring to the student team during the semester.
 * Provide feedback on the final project report (including a video and support materials), which will be provided to the community partners at the end of the project.   
 * (optional) Share information about the community partner’s organization at a seminar for appropriate MSU audiences (e.g., undergraduates, graduate students, postdocs, faculty, or staff in CMSE, the College of Engineering, and/or the College of Natural Science) 
 * (optional) Participate in networking activities with students from the course (beyond the community partner’s project team, as desired) 
 
-The tentative project timeline for Spring 2025 is outlined below: 
+The tentative project timeline for Fall 2025 / Spring 2026 semesters is outlined below: 
 
 | Week          | Description                                    |
 | ------------- | ---------------------------------------------- |
-| July 1 - November 15 | Seek out potential community partners |
-| July 1 - November 15 | Meet with commmunity partners to develop project plan and work on agreements | 
-| December 1 | Finish agreements between MSU and community partners |
-| January 1-15  | Finalize and upload projects descriptions to website | 
-| January 16-20 | Teams assigned to each project                 |
-| January 23-27 | First Community Partner/Student/Faculty networking event |
-| February 6-10 | Project proposal presentations                 |
-| March 20-24   | Mid-Semester Progress Report and Presentation  |
-| April  24-28  | Final presentations                            |
+| Now - July 15th | Seek out potential community partners for both the Fall 2025 and Spring 2026 Semesters. |
+| Now - August 1th | Meet with commmunity partners to develop project plan and work on agreements | 
+| August 1th | Finish agreements (NDA/IP) between MSU and community partners |
+| August 1st - August 15th  | Finalize and upload project descriptions to website | 
+| August 1st - August 15th  | Community Partners Provide Data and Resources to Instructors | 
 
 Potential community partners should fill out the [MSU Data Science Community Partner Connection Form](https://docs.google.com/forms/d/e/1FAIpQLSf5BgOa_6cWDkZeaGiz75VI4s3FbyG5lq3MRSBrrlzi5UNiuQ/viewform).  If you would like you can also reach out to Dr. Dirk Colbry (colbrydi@msu.edu) directly.
 
