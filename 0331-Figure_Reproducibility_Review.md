@@ -23,7 +23,7 @@ This is a tri-pod team paring exercise.  Your team will work with another team t
 
 ## Agenda
 
-- (5 minutes) Break up into two groups 
+- (5 minutes) Break up into tripod groups.  Split people up so that there are members of each team in each tripod group.
 - (5 minutes) Quick Introductions. Identify a timekeeper, notetaker, code reviewer, and facilitator.
 - (20 minutes) Review Installation and Figure instructions
 - (10 minutes) Discussion and brainstorming about improvements
