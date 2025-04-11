@@ -9,7 +9,7 @@ Teams will be split into three groups.  Group 1 will present while Group 2 and 3
 
 Presentations in the "Digital Poster" format are expected to be flexible and dynamic so that visitors can ask questions and interact with the team.  It is recommended that each team have a short (1-2 minute) overview of the project that discusses the basic goals and outcomes of the project. Then the teams should be prepared to give a demo and/or answer questions from the audience and have other visuals available to help.  Teams may want to assign roles to their members. For example, greeters engage new visitors as they approach their TV, maybe others on the team will be available to answer specific questions and yet others can be in charge of giving demos.  What you do will depend on your team but make sure you are flexible and can keep the conversation going.
 
-![Map of TV Layout for Presentations](https://lh4.googleusercontent.com/E7_qFTISZUo90rRLtgcI7D8KEpcEcCZPK5h6DW2ywIH05sPQducL-3kWrBTb45_Nf0uGtu0QHHjePptz1BpmNXPmt8tzCw4Y5jaHwXud7p6R2RZfdyC4lYqCSKuP-3wMIu3bKwNwA3OrlRCXPsPWNgU-_0cFvDTof2a3tlePcSGnUtmagw=w740?key=Mm3fue6nYp1bZn6GfnoQZg)
+![Map of TV Layout for Presentations](https://lh5.googleusercontent.com/Pt9zlODd5mpD7zx0u0LaGUb2vA8hvqrXA-JTIEUvVheIYSccP6k3JARpVntQxaOnYmQEKeNaZSHfXLhZBX-8ip9rE5JktnNW0St6FzT5IGDY0trriLKVXilpjyveXBvCELgIgPNdcaKIt2ZZt3x80TKqWkQQQmPqt5c-k_GrhgbGg4G_AA=w740?key=Mm3fue6nYp1bZn6GfnoQZg)
 
 ## Agenda (90 Minutes)
 
