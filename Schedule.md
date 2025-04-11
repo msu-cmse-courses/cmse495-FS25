@@ -134,8 +134,8 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 04/21 | Course Review and Reflection |
-| Wednesday | 04/23 | Showcase |
+| Monday | 04/21 |  [Course Review and Reflection](0421-Course_Review_and_Reflection) |
+| Wednesday | 04/23 |  [Showcase](0423-Showcase) |
 | Friday | 04/25 | No Class Due to Engeering Design Day |
 | Sunday | 04/27 | Final Extended Deadline |
 
