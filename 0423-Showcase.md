@@ -9,7 +9,7 @@ Teams will be split into three groups.  Group 1 will present while Group 2 and 3
 
 Presentations in the "Digital Poster" format are expected to be flexible and dynamic so that visitors can ask questions and interact with the team.  It is recommended that each team have a short (1-2 minute) overview of the project that discusses the basic goals and outcomes of the project. Then the teams should be prepared to give a demo and/or answer questions from the audience and have other visuals available to help.  Teams may want to assign roles to their members. For example, greeters engage new visitors as they approach their TV, maybe others on the team will be available to answer specific questions and yet others can be in charge of giving demos.  What you do will depend on your team but make sure you are flexible and can keep the conversation going.
 
-![Map of TV Layout for Presentations](https://lh5.googleusercontent.com/Pt9zlODd5mpD7zx0u0LaGUb2vA8hvqrXA-JTIEUvVheIYSccP6k3JARpVntQxaOnYmQEKeNaZSHfXLhZBX-8ip9rE5JktnNW0St6FzT5IGDY0trriLKVXilpjyveXBvCELgIgPNdcaKIt2ZZt3x80TKqWkQQQmPqt5c-k_GrhgbGg4G_AA=w740?key=Mm3fue6nYp1bZn6GfnoQZg)
+![Map of TV Layout for Presentations](https://lh6.googleusercontent.com/9fco7UtpsjkQuzR0TAsS34_xUSc3Ns4pB5pXuupp7W9iPZCNQU09bDnYaiJkIIqoOSk39zUiyTCjEy3j_bIXK8gNBj7-5nyUQfGveSoUGTBljGGj7GYzkfHmCPrdQ1Z1m9S5C3yixvrtkpWxDLExpJkgyQmbiRCHo_HF27oR8m4QorPxMA=w740?key=Mm3fue6nYp1bZn6GfnoQZg)
 
 ## Agenda (90 Minutes)
 
@@ -19,13 +19,15 @@ Presentations in the "Digital Poster" format are expected to be flexible and dyn
 - (30 minutes) Group 3 Presentations
 
 
+
 | | Group 1 - 3:00-3:25pm | Group 2 - 3:30-3:55pm | Group 3 - 4:00-4:25pm |
 |--------|--------|--------|--------|
 | 1 | CEPI | HFH_QC | TechSmith |
-| 2 | HFH_MT | HFH_PP | TwoSix |
+| 2 |  HFH_PP | TwoSix |  |
 | 3 | Grassroots | QSIDE | HAP |
 | 4 | Documenters | MSU_JO | MSU_WD | 
 | 5 | MSU_HC | HFH_RC | MSU_GR |
+
 
 # Feedback form
 
