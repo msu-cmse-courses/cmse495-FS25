@@ -4,7 +4,6 @@ In Fall of 2025, class will meet weekly on TBD in Engineering Building room TBD_
 
 Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Mondays on days we have class.
 
-| Sunday | 03/02 | Nothing Due (Spring Break) |
 
 ## Week of August 25
 
@@ -19,7 +18,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 09/01 | MLK No Class |
+| Monday | 09/01 | Holiday University Closed |
 | Wednesday | 09/03 | CyberAmbassadors Teaming Up |
 | Friday | 09/05 | Team Meeting |
 | Sunday | 09/07 | ASSIGNMENT Project Organization |
@@ -67,23 +66,24 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 10/06 | Outreach Review |
 | Wednesday | 10/08 | CyberAmbassadors Leveling Up |
 | Friday | 10/10 | Tutorial Selection |
+| Sunday | 10/12 | ASSIGNMENT Install Instructions |
 
 ## Week of October 13
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 10/13 | Spring Break |
-| Wednesday | 10/15 | Spring Break |
-| Friday | 10/17 | Spring Break |
-| Sunday | 10/19 | ASSIGNMENT Install Instructions |
+| Monday | 10/13 | Install Instruction Review |
+| Wednesday | 10/15 | CyberAmbassadors Its Complicated |
+| Friday | 10/17 | Tutorial Development |
+| Sunday | 10/19 | Nothing Due (Fall Break) |
 
 ## Week of October 20
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 10/20 | Install Instruction Review |
-| Wednesday | 10/22 | CyberAmbassadors Its Complicated |
-| Friday | 10/24 | Tutorial Development |
+| Monday | 10/20 | Fall Break |
+| Wednesday | 10/22 | Project CoWork |
+| Friday | 10/24 | Project CoWork |
 | Sunday | 10/26 | ASSIGNMENT MVP Presentation Storyboard |
 
 ## Week of October 27
@@ -100,7 +100,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 11/03 | MVP Presentations |
-| Wednesday | 11/05 | CyberAmbassadors Leading the Change |
+| Wednesday | 11/05 | CyberAmbassadors Leading with Principles |
 | Friday | 11/07 | Deep Tutorial Review |
 | Sunday | 11/09 | ASSIGNMENT Reproducability |
 
@@ -109,7 +109,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 11/10 | Figure Reproducibility Review |
-| Wednesday | 11/12 | CyberAmbassadors Leading with Principles |
+| Wednesday | 11/12 | CyberAmbassadors Leading the Change |
 | Friday | 11/14 | Tutorial Presentations |
 | Sunday | 11/16 | ASSIGNMENT Full Project Draft |
 
@@ -128,7 +128,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 |------|---------|------------|
 | Monday | 11/24 | Final presentation Storyboard Feedback |
 | Wednesday | 11/26 | Project CoWork |
-| Friday | 11/28 | Project CoWork |
+| Friday | 11/28 | Thanksgiving Break |
 | Sunday | 11/30 | ASSIGNMENT Final Project |
 
 ## Week of December 1
