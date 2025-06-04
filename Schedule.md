@@ -12,7 +12,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 08/25 | Welcome |
 | Wednesday | 08/27 | CyberAmbassadors First Contact |
 | Friday | 08/29 | ASSIGNMENT Project Review Presentation |
-|  | 08/29 | Class Agenda Project Review |
+|  |  | Class Agenda Project Review |
 | Sunday | 08/31 | MILESTONE Project Preferences |
 
 ## Week of September 1
