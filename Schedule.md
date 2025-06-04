@@ -7,17 +7,17 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of August 25
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 08/25 | Welcome |
 | Wednesday | 08/27 | CyberAmbassadors First Contact |
 | Friday | 08/29 | ASSIGNMENT Project Review Presentation |
-| Friday | 08/29 | Class Agenda Project Review |
+|  | 08/29 | Class Agenda Project Review |
 | Sunday | 08/31 | MILESTONE Project Preferences |
 
 ## Week of September 1
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 09/01 | Holiday University Closed |
 | Wednesday | 09/03 | CyberAmbassadors Teaming Up |
@@ -26,7 +26,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of September 8
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 09/08 | Anticpating Challenges |
 | Wednesday | 09/10 | CyberAmbassadors Speaking up |
@@ -35,7 +35,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of September 15
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 09/15 | Project Plan |
 | Wednesday | 09/17 | Community Engaged Learning I |
@@ -44,7 +44,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of September 22
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 09/22 | Proposal Presentation Storyboard Review |
 | Wednesday | 09/24 | Community Engaged Learning II |
@@ -53,7 +53,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of September 29
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 09/29 | Proposal Presentations |
 | Wednesday | 10/01 | CyberAmbassadors Lets talk |
@@ -62,7 +62,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of October 6
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 10/06 | Outreach Review |
 | Wednesday | 10/08 | CyberAmbassadors Leveling Up |
@@ -71,7 +71,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of October 13
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 10/13 | Install Instruction Review |
 | Wednesday | 10/15 | CyberAmbassadors Its Complicated |
@@ -80,7 +80,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of October 20
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 10/20 | Fall Break |
 | Wednesday | 10/22 | Project CoWork |
@@ -89,7 +89,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of October 27
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 10/27 | MVP Presentation Storyboard Review |
 | Wednesday | 10/29 | CyberAmbassadors Leading the Team |
@@ -98,7 +98,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of November 3
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/03 | MVP Presentations |
 | Wednesday | 11/05 | CyberAmbassadors Leading with Principles |
@@ -107,7 +107,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of November 10
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/10 | Figure Reproducibility Review |
 | Wednesday | 11/12 | CyberAmbassadors Leading the Change |
@@ -116,7 +116,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of November 17
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/17 | Full Project Review |
 | Wednesday | 11/19 | Project CoWork |
@@ -125,7 +125,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of November 24
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/24 | Final presentation Storyboard Feedback |
 | Wednesday | 11/26 | Project CoWork |
@@ -134,7 +134,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 ## Week of December 1
 
-| Day | Date | Assignment |
+| Day | Date | Description |
 |------|---------|------------|
 | Monday | 12/01 | Course Review and Reflection |
 | Wednesday | 12/03 | Showcase |
