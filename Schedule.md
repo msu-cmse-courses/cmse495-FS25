@@ -21,7 +21,8 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 |------|---------|------------|
 | Monday | 09/01 | Holiday University Closed |
 | Wednesday | 09/03 | CyberAmbassadors Teaming Up |
-| Friday | 09/05 | Team Meeting |
+| Friday | 09/05 | ASSIGNMENT First Team Meeting |
+|  |  | Team Meeting |
 | Sunday | 09/07 | MILESTONE Project Organization |
 
 ## Week of September 8
