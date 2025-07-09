@@ -1,6 +1,8 @@
 # Course Schedule  
 
-In Fall of 2025, class will meet weekly on TBD in Engineering Building room TBD_**.")
+In Fall of 2025, class will meet weekly on TBD in Engineering Building Engineering Building 2320.")
+
+[Click this link to download an ical file of this schedule](./CMSE495_FALL_2025_Calendar.ics)
 
 Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Mondays on days we have class.
 
