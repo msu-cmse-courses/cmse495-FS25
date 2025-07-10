@@ -1,6 +1,6 @@
 # Course Schedule  
 
-In Fall of 2025, class will meet weekly on TBD in Engineering Building Engineering Building 2320.
+In Fall of 2025, class will meet weekly 9:30-10:40am in Engineering Building Engineering Building 2320.
 
 [Click this link to download an ical file of this schedule](./CMSE495_FALL_2025_Calendar.ics)
 
