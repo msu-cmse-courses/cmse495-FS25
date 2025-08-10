@@ -7,7 +7,7 @@ DTSTART;TZID=US/Eastern:20250825T093000
 DTEND;TZID=US/Eastern:20250825T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0825-Welcome'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: CyberAmbassadors First Contact
@@ -15,7 +15,7 @@ DTSTART;TZID=US/Eastern:20250827T093000
 DTEND;TZID=US/Eastern:20250827T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0827-CyberAmbassadors_First_Contact'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: ASSIGNMENT Project Review Presentation
@@ -23,7 +23,7 @@ DTSTART;TZID=US/Eastern:20250829T000000
 DTEND;TZID=US/Eastern:20250830T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0829-ASSIGNMENT_Project_Review_Presentation'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/0829-ASS
  IGNMENT_Project_Review_Presentation
 TRANSP:TRANSPARENT
@@ -34,7 +34,7 @@ DTSTART;TZID=US/Eastern:20250829T093000
 DTEND;TZID=US/Eastern:20250829T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0829-Class_Agenda_Project_Review'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Project Preferences
@@ -42,7 +42,7 @@ DTSTART;TZID=US/Eastern:20250831T000000
 DTEND;TZID=US/Eastern:20250901T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0831-MILESTONE_Project_Preferences'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/0831-MIL
  ESTONE_Project_Preferences
 TRANSP:TRANSPARENT
@@ -53,7 +53,7 @@ DTSTART;TZID=US/Eastern:20250901T093000
 DTEND;TZID=US/Eastern:20250901T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0901-Holiday_University_Closed'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: CyberAmbassadors Teaming Up
@@ -61,7 +61,7 @@ DTSTART;TZID=US/Eastern:20250903T093000
 DTEND;TZID=US/Eastern:20250903T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0903-CyberAmbassadors_Teaming_Up'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: ASSIGNMENT First Team Meeting
@@ -69,7 +69,7 @@ DTSTART;TZID=US/Eastern:20250905T000000
 DTEND;TZID=US/Eastern:20250906T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0905-ASSIGNMENT_First_Team_Meeting'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/0905-ASS
  IGNMENT_First_Team_Meeting
 TRANSP:TRANSPARENT
@@ -80,7 +80,7 @@ DTSTART;TZID=US/Eastern:20250905T093000
 DTEND;TZID=US/Eastern:20250905T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0905-Team_Meeting'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Project Organization
@@ -88,7 +88,7 @@ DTSTART;TZID=US/Eastern:20250907T000000
 DTEND;TZID=US/Eastern:20250908T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0907-MILESTONE_Project_Organization'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/0907-MIL
  ESTONE_Project_Organization
 TRANSP:TRANSPARENT
@@ -99,7 +99,7 @@ DTSTART;TZID=US/Eastern:20250908T093000
 DTEND;TZID=US/Eastern:20250908T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0908-Anticpating_Challenges'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: CyberAmbassadors Speaking up
@@ -107,7 +107,7 @@ DTSTART;TZID=US/Eastern:20250910T093000
 DTEND;TZID=US/Eastern:20250910T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0910-CyberAmbassadors_Speaking_up'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: SCHOLAR Review
@@ -115,7 +115,7 @@ DTSTART;TZID=US/Eastern:20250912T093000
 DTEND;TZID=US/Eastern:20250912T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0912-SCHOLAR_Review'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Plan
@@ -123,7 +123,7 @@ DTSTART;TZID=US/Eastern:20250914T000000
 DTEND;TZID=US/Eastern:20250915T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0914-MILESTONE_Plan'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/0914-MIL
  ESTONE_Plan
 TRANSP:TRANSPARENT
@@ -134,7 +134,7 @@ DTSTART;TZID=US/Eastern:20250915T093000
 DTEND;TZID=US/Eastern:20250915T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0915-Project_Plan'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Community Engaged Learning I
@@ -142,7 +142,7 @@ DTSTART;TZID=US/Eastern:20250917T093000
 DTEND;TZID=US/Eastern:20250917T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0917-Community_Engaged_Learning_I'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: SCHOLAR Pull request
@@ -150,7 +150,7 @@ DTSTART;TZID=US/Eastern:20250919T093000
 DTEND;TZID=US/Eastern:20250919T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0919-SCHOLAR_Pull_request'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Plan Video Storyboard
@@ -158,7 +158,7 @@ DTSTART;TZID=US/Eastern:20250921T000000
 DTEND;TZID=US/Eastern:20250922T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0921-MILESTONE_Plan_Video_Storyboard'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/0921-MIL
  ESTONE_Plan_Video_Storyboard
 TRANSP:TRANSPARENT
@@ -169,7 +169,7 @@ DTSTART;TZID=US/Eastern:20250922T093000
 DTEND;TZID=US/Eastern:20250922T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0922-Proposal_Presentation_Storyboard_Review'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Community Engaged Learning II
@@ -177,7 +177,7 @@ DTSTART;TZID=US/Eastern:20250924T093000
 DTEND;TZID=US/Eastern:20250924T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0924-Community_Engaged_Learning_II'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: SCHOLAR Presentations
@@ -185,7 +185,7 @@ DTSTART;TZID=US/Eastern:20250926T093000
 DTEND;TZID=US/Eastern:20250926T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0926-SCHOLAR_Presentations'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Plan Video
@@ -193,7 +193,7 @@ DTSTART;TZID=US/Eastern:20250928T000000
 DTEND;TZID=US/Eastern:20250929T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0928-MILESTONE_Plan_Video'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/0928-MIL
  ESTONE_Plan_Video
 TRANSP:TRANSPARENT
@@ -204,7 +204,7 @@ DTSTART;TZID=US/Eastern:20250929T093000
 DTEND;TZID=US/Eastern:20250929T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/0929-Proposal_Presentations'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: CyberAmbassadors Lets talk
@@ -212,7 +212,7 @@ DTSTART;TZID=US/Eastern:20251001T093000
 DTEND;TZID=US/Eastern:20251001T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1001-CyberAmbassadors_Lets_talk'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Selection Matrix
@@ -220,7 +220,7 @@ DTSTART;TZID=US/Eastern:20251003T093000
 DTEND;TZID=US/Eastern:20251003T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1003-Selection_Matrix'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Outreach
@@ -228,7 +228,7 @@ DTSTART;TZID=US/Eastern:20251005T000000
 DTEND;TZID=US/Eastern:20251006T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1005-MILESTONE_Outreach'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/1005-MIL
  ESTONE_Outreach
 TRANSP:TRANSPARENT
@@ -239,7 +239,7 @@ DTSTART;TZID=US/Eastern:20251006T093000
 DTEND;TZID=US/Eastern:20251006T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1006-Outreach_Review'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: CyberAmbassadors Leveling Up
@@ -247,7 +247,7 @@ DTSTART;TZID=US/Eastern:20251008T093000
 DTEND;TZID=US/Eastern:20251008T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1008-CyberAmbassadors_Leveling_Up'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Tutorial Selection
@@ -255,7 +255,7 @@ DTSTART;TZID=US/Eastern:20251010T093000
 DTEND;TZID=US/Eastern:20251010T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1010-Tutorial_Selection'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Install Instructions
@@ -263,7 +263,7 @@ DTSTART;TZID=US/Eastern:20251012T000000
 DTEND;TZID=US/Eastern:20251013T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1012-MILESTONE_Install_Instructions'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/1012-MIL
  ESTONE_Install_Instructions
 TRANSP:TRANSPARENT
@@ -274,7 +274,7 @@ DTSTART;TZID=US/Eastern:20251013T093000
 DTEND;TZID=US/Eastern:20251013T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1013-Install_Instruction_Review'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: CyberAmbassadors Its Complicated
@@ -282,7 +282,7 @@ DTSTART;TZID=US/Eastern:20251015T093000
 DTEND;TZID=US/Eastern:20251015T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1015-CyberAmbassadors_Its_Complicated'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Tutorial Development
@@ -290,7 +290,7 @@ DTSTART;TZID=US/Eastern:20251017T093000
 DTEND;TZID=US/Eastern:20251017T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1017-Tutorial_Development'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Nothing Due (Fall Break)
@@ -298,7 +298,7 @@ DTSTART;TZID=US/Eastern:20251019T093000
 DTEND;TZID=US/Eastern:20251019T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1019-Nothing_Due_(Fall_Break)'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Fall Break
@@ -306,7 +306,7 @@ DTSTART;TZID=US/Eastern:20251020T093000
 DTEND;TZID=US/Eastern:20251020T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1020-Fall_Break'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Project CoWork
@@ -314,7 +314,7 @@ DTSTART;TZID=US/Eastern:20251022T093000
 DTEND;TZID=US/Eastern:20251022T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1022-Project_CoWork'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Project CoWork
@@ -322,7 +322,7 @@ DTSTART;TZID=US/Eastern:20251024T093000
 DTEND;TZID=US/Eastern:20251024T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1024-Project_CoWork'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE MVP Presentation Storyboard
@@ -330,7 +330,7 @@ DTSTART;TZID=US/Eastern:20251026T000000
 DTEND;TZID=US/Eastern:20251027T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1026-MILESTONE_MVP_Presentation_Storyboard'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/1026-MIL
  ESTONE_MVP_Presentation_Storyboard
 TRANSP:TRANSPARENT
@@ -341,7 +341,7 @@ DTSTART;TZID=US/Eastern:20251027T093000
 DTEND;TZID=US/Eastern:20251027T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1027-MVP_Presentation_Storyboard_Review'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: CyberAmbassadors Leading the Team
@@ -349,7 +349,7 @@ DTSTART;TZID=US/Eastern:20251029T093000
 DTEND;TZID=US/Eastern:20251029T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1029-CyberAmbassadors_Leading_the_Team'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Tutorial Pull Requests
@@ -357,7 +357,7 @@ DTSTART;TZID=US/Eastern:20251031T093000
 DTEND;TZID=US/Eastern:20251031T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1031-Tutorial_Pull_Requests'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE MVP Video
@@ -365,7 +365,7 @@ DTSTART;TZID=US/Eastern:20251102T000000
 DTEND;TZID=US/Eastern:20251103T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1102-MILESTONE_MVP_Video'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/1102-MIL
  ESTONE_MVP_Video
 TRANSP:TRANSPARENT
@@ -376,7 +376,7 @@ DTSTART;TZID=US/Eastern:20251103T093000
 DTEND;TZID=US/Eastern:20251103T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1103-MVP_Presentations'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: CyberAmbassadors Leading with Principles
@@ -384,7 +384,7 @@ DTSTART;TZID=US/Eastern:20251105T093000
 DTEND;TZID=US/Eastern:20251105T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1105-CyberAmbassadors_Leading_with_Principles'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Deep Tutorial Review
@@ -392,7 +392,7 @@ DTSTART;TZID=US/Eastern:20251107T093000
 DTEND;TZID=US/Eastern:20251107T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1107-Deep_Tutorial_Review'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Reproducability
@@ -400,7 +400,7 @@ DTSTART;TZID=US/Eastern:20251109T000000
 DTEND;TZID=US/Eastern:20251110T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1109-MILESTONE_Reproducability'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/1109-MIL
  ESTONE_Reproducability
 TRANSP:TRANSPARENT
@@ -411,7 +411,7 @@ DTSTART;TZID=US/Eastern:20251110T093000
 DTEND;TZID=US/Eastern:20251110T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1110-Figure_Reproducibility_Review'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: CyberAmbassadors Leading the Change
@@ -419,7 +419,7 @@ DTSTART;TZID=US/Eastern:20251112T093000
 DTEND;TZID=US/Eastern:20251112T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1112-CyberAmbassadors_Leading_the_Change'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Tutorial Presentations
@@ -427,7 +427,7 @@ DTSTART;TZID=US/Eastern:20251114T093000
 DTEND;TZID=US/Eastern:20251114T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1114-Tutorial_Presentations'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Full Project Draft
@@ -435,7 +435,7 @@ DTSTART;TZID=US/Eastern:20251116T000000
 DTEND;TZID=US/Eastern:20251117T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1116-MILESTONE_Full_Project_Draft'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/1116-MIL
  ESTONE_Full_Project_Draft
 TRANSP:TRANSPARENT
@@ -446,7 +446,7 @@ DTSTART;TZID=US/Eastern:20251117T093000
 DTEND;TZID=US/Eastern:20251117T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1117-Full_Project_Review'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Project CoWork
@@ -454,7 +454,7 @@ DTSTART;TZID=US/Eastern:20251119T093000
 DTEND;TZID=US/Eastern:20251119T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1119-Project_CoWork'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Project CoWork
@@ -462,7 +462,7 @@ DTSTART;TZID=US/Eastern:20251121T093000
 DTEND;TZID=US/Eastern:20251121T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1121-Project_CoWork'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Final Presentation Storyboard
@@ -470,7 +470,7 @@ DTSTART;TZID=US/Eastern:20251123T000000
 DTEND;TZID=US/Eastern:20251124T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1123-MILESTONE_Final_Presentation_Storyboard'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/1123-MIL
  ESTONE_Final_Presentation_Storyboard
 TRANSP:TRANSPARENT
@@ -481,7 +481,7 @@ DTSTART;TZID=US/Eastern:20251124T093000
 DTEND;TZID=US/Eastern:20251124T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1124-Final_presentation_Storyboard_Feedback'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Project CoWork
@@ -489,7 +489,7 @@ DTSTART;TZID=US/Eastern:20251126T093000
 DTEND;TZID=US/Eastern:20251126T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1126-Project_CoWork'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Thanksgiving Break
@@ -497,7 +497,7 @@ DTSTART;TZID=US/Eastern:20251128T093000
 DTEND;TZID=US/Eastern:20251128T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1128-Thanksgiving_Break'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: MILESTONE Final Project
@@ -505,7 +505,7 @@ DTSTART;TZID=US/Eastern:20251130T000000
 DTEND;TZID=US/Eastern:20251201T000000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1130-MILESTONE_Final_Project'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 LOCATION:https://msu-cmse-courses.github.io/cmse495-FS25/Schedule/1130-MIL
  ESTONE_Final_Project
 TRANSP:TRANSPARENT
@@ -516,7 +516,7 @@ DTSTART;TZID=US/Eastern:20251201T093000
 DTEND;TZID=US/Eastern:20251201T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1201-Course_Review_and_Reflection'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Showcase
@@ -524,7 +524,7 @@ DTSTART;TZID=US/Eastern:20251203T093000
 DTEND;TZID=US/Eastern:20251203T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1203-Showcase'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: No Class Due to Engeering Design Day
@@ -532,7 +532,7 @@ DTSTART;TZID=US/Eastern:20251205T093000
 DTEND;TZID=US/Eastern:20251205T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1205-No_Class_Due_to_Engeering_Design_Day'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Final Extended Deadline
@@ -540,6 +540,6 @@ DTSTART;TZID=US/Eastern:20251207T093000
 DTEND;TZID=US/Eastern:20251207T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
  ule/1207-Final_Extended_Deadline'>Link to assignment</a>
-LOCATION:Engineering Building 2320
+LOCATION:Holmes Hall room W9
 END:VEVENT
 END:VCALENDAR

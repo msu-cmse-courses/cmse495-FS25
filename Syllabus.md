@@ -12,15 +12,15 @@ The capstone course has the following learning goals:
 
 ## Course Format and Activities
 
-The class will meet three times a week during the 15-week semester and will be delivered **_synchronously_**.  Students are expected to attend class during the designated class period (MWF 3:00-4:20pm). Classroom time will be divided across three broad activity categories:
+The class will meet three times a week during the 15-week semester and will be delivered **_synchronously_**.  Students are expected to attend class during the designated class period (MWF 9:30-10:40am). Classroom time will be divided across three broad activity categories:
 
 - Project planning, team meetings, milestones and reports (Mondays)
 - Professional skills training and practice (Wednesdays)
 - Software development and technical skills practice (Fridays)
 
-Early in the semester, students will be divided into capstone teams of 4-5 people and assigned a semester long project with multiple milestones.  The majority of a students grade will come from working constructively as a team to accomplish the project goals (as defined by the instructor and the project community partners). When possible, the majority of out-of-class time will be dedicated to tasks and deliverable that relate directly to the capstone team's projects.  Students should expect to spend an average of 10-15 hours a week outside of class working on their capstone projects.  
+Early in the semester, students will be divided into capstone teams of 4-5 people and assigned a semester long project with multiple milestones.  The majority of a students grade will come from working constructively as a team to accomplish the project goals (as defined by the instructor and the project community partners). When possible, the majority of out-of-class time will be dedicated to tasks and deliverables that relate directly to the capstone team's projects.  Students should expect to spend an average of 10-15 hours a week outside of class working on their capstone projects.  
 
-### Class participation
+### Class Participation
 
 Class sessions will be held three times a week and broken up into presentations, discussions, group work and programming activities. 
 
@@ -34,7 +34,7 @@ There is a **_LOT_** of material to cover this semester. To help provide some st
 
 Once students are assigned to a team they will be added to a private team channel in the course Microsoft Team:
 
-* [Link to Course Teams Channel](https://teams.microsoft.com/l/team/19%3AzTqC29ZVR8mf5gimuO2055kdrX7xkq_vFxwG6mzkgJ41%40thread.tacv2/conversations?groupId=3b3f1bb8-a5c4-400e-b896-abe77ff3eaf5&tenantId=22177130-642f-41d9-9211-74237ad5687d)
+* [Link to Course Teams Channel](TBD)
 
 Teams will be expected to use either email or this channel for team communications. This will help the instructor stay organized and informed. 
 
@@ -61,7 +61,7 @@ Student grades will be partially determine by how well you work as a team.  Team
 
 ### Individual and Team Weekly 3x3 Reflections (Due Mondays)
 
-It is expected that everyone will email a individual weekly Three-by-Three reflection to their capstone team on or before class on Monday. Then on Monday the team will summarize their individual 3x3's into one group 3x3 reflection that they send to their instructor for feedback.
+It is expected that everyone will email an individual weekly Three-by-Three reflection to their capstone team on or before class on Monday. Then on Monday the team will summarize their individual 3x3's into one group 3x3 reflection that they send to their instructor for feedback.
 
 Additional details and instructions for how to write 3x3 reflections found [here](Weekly-3x3)
 
@@ -124,12 +124,12 @@ There are a variety of course activities, with percentages of total grade listed
 | Team Logistics | 10 | 
 | SCHOLAR Tutorial Development | 15 | 
 | Project Milestones | 20 |
-| Individual teamwork score | 20 |
+| Individual Teamwork Score | 20 |
 | Final Project Deliverables | 25 |
 | Total | 100% |
 
 
-### Grading scale
+### Grading Scale
 The following is an estimated scale used for grading. There are multiple opportunities for students to receive grade-related input from other students; notably regarding group participation and/or presentations.  This data is  only advisory to the instructions, who still maintains full responsibility for assigning the grade. 
 
 | Scale |
@@ -149,7 +149,7 @@ The following is an estimated scale used for grading. There are multiple opportu
 # Logistical Information
 
 
-## Course website
+## Course Website
 
 Information for this course is being managed via the course website:  
 
@@ -159,7 +159,7 @@ Accompanying course information, including the official course calendar, can be 
 
 ## Course Meeting Time and Location
 
-Classes will meet weekly on **_Monday, Wednesday and Friday 3:00-4:20pm in Engineering Building room 1145_**.
+Classes will meet weekly on **_Monday, Wednesday and Friday 9:30-10:40am in Holmes Hall room W9_**.
 
 If, during the semester there is a need, we have set aside the following zoom room for this course. Teams must notify the instructor before class if one of their members needs to connect to class remotely (ex. due to illness or travel).  
 
@@ -170,7 +170,7 @@ If, during the semester there is a need, we have set aside the following zoom ro
 
 Specific assignments and due dates will be maintained on the [course schedule](Schedule), which is linked to off the course website.  
 
-## Required materials for class
+## Required Materials for Class
 
 The “in-class” programming assignments are a critical part of the learning process in this course. To that end, you will need to ensure that you have the following:
 
@@ -183,7 +183,7 @@ All required readings will be provided as Open Educational Resource (OER) via li
 
 ## Instructors Contact Information and Office Hours
 
-**_Instructor_**:
+**_Lead Instructor_**:
 
 Dr. Dirk Colbry (he/him/his)  
 Institute for Cyber Enabled Research (ICER) and Department of Computational Mathematics, Science and Engineering (CMSE)  
@@ -191,18 +191,20 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 **_Web_**:  <http://www.dirk.colbry.com>  
 **_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/)  
 **_Virtual Office_**:  [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi)  
-**_Office Hours_**:  Mondays 1:00-2:30pm In my office ([EB 1516](https://cmse.msu.edu/About/directions.aspx))   
+**_Office Hours_**:  I have an hour before and after class blocked off for Mondays and Wednesdays (we can meet inside or next to our classs room) and Thursday 1:00-2:00pm In my office ([EB 1516](https://cmse.msu.edu/About/directions.aspx)) of via zoom (if you remind me). 
 
 * Please visit <http://bookdirk.colbry.com/> to schedule an appointment.
 
 ---
 
-**_Graduate Teaching Assistant_**:
+**_Co-Instructor_**:
  
-Yash Mandlecha  
+Dr. Justin Gambrell (he/him)  
 Department of Computational Mathematics, Science and Engineering (CMSE)   
-**_Email_**: mandlec1@msu.edu  
- 
+**_Email_**: gambre11@msu.edu  
+**_Office_**: ??? 
+**_Virtual Office_**:  ???
+**_Office Hours_**:  ???
 
 
 # Course Policies and Expectations
@@ -220,7 +222,7 @@ In addition to the above, many of the community partners will require students t
 
 Note: The above are examples of the standard agreements. Slight variations may be made depending on the project community partner's needs and will be given to students to review before project selection.
 
-## Class attendance 
+## Class Attendance 
 
 This class is heavily based on material presented and worked on during class, and it is critical that you attend and participate fully every week! Therefore, class attendance is required.  
 
@@ -238,9 +240,9 @@ At times, we will send out important course information via email.  This email 
 
 In addition to email, students will be expected to check the course Teams Channel.  Students are responsible for all information sent to Teams. It is highly recommended that students download the app and turn on alerts.  
 
-* [Link to Course Teams channel](https://teams.microsoft.com/l/team/19%3AzTqC29ZVR8mf5gimuO2055kdrX7xkq_vFxwG6mzkgJ41%40thread.tacv2/conversations?groupId=3b3f1bb8-a5c4-400e-b896-abe77ff3eaf5&tenantId=22177130-642f-41d9-9211-74237ad5687d)
+* [Link to Course Teams channel](TBD)
 
-## Inclusive classroom behavior 
+## Inclusive Classroom Behavior 
 
 Respectful and responsible behavior is expected at all times, which includes not interrupting other students, refraining from non-course-related use of electronic devices or additional software during class sessions, and not using offensive or demeaning language in our discussions. Flagrant or repeated violations of this expectation may result in ejection from the classroom, grade-related penalties, and/or involvement of the university Ombudsperson. In particular, behaviors that could be considered discriminatory or harassing, or unwanted sexual attention, will not be tolerated and will be immediately reported to the appropriate MSU office (which may include the MSU Police Department).
 
@@ -251,7 +253,7 @@ In addition, MSU welcomes a full spectrum of experiences, viewpoints, and intell
 Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at <http://rcpd.msu.edu>.  Once your eligibility for an accommodation has been determined, you will be issued a Accommodation Letter (formally known as a Verified Individual Services Accommodation or "VISA" form). Please present this letter to the instructor at the start of the term and/or two weeks prior to the accommodation date (test, project, etc.). Requests received after this date may not be honored. 
 
 
-## Academic honesty
+## Academic Honesty
 
 Intellectual integrity is the foundation of the scientific enterprise.  In all instances, you must do your own work and give proper credit to all sources that you use in your papers and oral presentations – any instance of submitting another person’s work, ideas, or wording as your own counts as plagiarism.  This includes failing to cite any direct quotations in your essays, research paper, class debate, or written presentation.  The MSU College of Engineering adheres to the policies of academic honesty as specified in the General Student Regulations 1.0, Protection of Scholarship and Grades, and in the all-University statement on Integrity of Scholarship and Grades, which are included in Spartan Life: Student Handbook and Resource Guide.  Students who plagiarize will receive a 0.0 in the course.  In addition, University policy requires that any cheating offense, regardless of the magnitude of the infraction or punishment decided upon by the professor, be reported immediately to the dean of the student's college. 
 
@@ -261,7 +263,7 @@ More broadly, we ask that students adhere to the Spartan Code of Honor academic 
 
 **_“As a Spartan, I will strive to uphold values of the highest ethical standard. I will practice honesty in my work, foster honesty in my peers, and take pride in knowing that honor is worth more than grades. I will carry these values beyond my time as a student at Michigan State University, continuing the endeavor to build personal integrity in all that I do.”_**
 
-## Limits to confidentiality
+## Limits to Confidentiality
 
 Personal assignments and peer review information materials submitted for this class are generally considered confidential pursuant to the University's student record policies.  
 
@@ -292,12 +294,12 @@ Article 2.III.B.4 of the[ Student Rights and Responsibilities (SRR)](http://spli
 
 Michigan State University is committed to ensuring that the bereavement process of a student who loses a family member during a semester does not put the student at an academic disadvantage in their classes. If you require a grief absence, you should complete the “Grief Absence Request” web form no later than one week after knowledge of the circumstance. I will work with you to make appropriate accommodations so that you are not penalized due to a verified grief absence.
 
-### Student illness
+### Student Illness
 
 If a student is exposed to someone who is ill, they will stay home, contact a health care provider and follow all public health recommendations.  There are multiple policies available to complete course work. Please talk to your instructors and [review the university policies](https://deanofstudents.msu.edu/medical-leave ). 
 
 
-### Instructor illness
+### Instructor Illness
 
 In the event that the instructor gets ill, the course will continue.  Backup instructors have been identified and will step in. 
 
