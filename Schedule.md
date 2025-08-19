@@ -1,6 +1,6 @@
 # Course Schedule  
 
-In Fall of 2025, class will meet weekly 9:30-10:40am in Engineering Building Holmes Hall room W9.
+In Fall of 2025, class will meet weekly 9:30-10:40am in Holmes Hall room W9.
 
 [Click this link to download an ical file of this schedule](./CMSE495_FALL_2025_Calendar.ics)
 
@@ -50,7 +50,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 09/22 | Proposal Presentation Storyboard Review |
-| Wednesday | 09/24 | Community Engaged Learning II |
+| Wednesday | 09/24 | CyberAmbassadors Lets talk |
 | Friday | 09/26 | SCHOLAR Presentations |
 | Sunday | 09/28 | MILESTONE Plan Video |
 
@@ -59,7 +59,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 09/29 | Proposal Presentations |
-| Wednesday | 10/01 | CyberAmbassadors Lets talk |
+| Wednesday | 10/01 | CyberAmbassadors Leveling Up |
 | Friday | 10/03 | Selection Matrix |
 | Sunday | 10/05 | MILESTONE Outreach |
 
@@ -68,7 +68,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 10/06 | Outreach Review |
-| Wednesday | 10/08 | CyberAmbassadors Leveling Up |
+| Wednesday | 10/08 | CyberAmbassadors Its Complicated |
 | Friday | 10/10 | Tutorial Selection |
 | Sunday | 10/12 | MILESTONE Install Instructions |
 
@@ -77,7 +77,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 10/13 | Install Instruction Review |
-| Wednesday | 10/15 | CyberAmbassadors Its Complicated |
+| Wednesday | 10/15 | CyberAmbassadors Leading the Team |
 | Friday | 10/17 | Tutorial Development |
 | Sunday | 10/19 | Nothing Due (Fall Break) |
 
@@ -95,7 +95,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 10/27 | MVP Presentation Storyboard Review |
-| Wednesday | 10/29 | CyberAmbassadors Leading the Team |
+| Wednesday | 10/29 | CyberAmbassadors Leading with Principles |
 | Friday | 10/31 | Tutorial Pull Requests |
 | Sunday | 11/02 | MILESTONE MVP Video |
 
@@ -104,7 +104,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/03 | MVP Presentations |
-| Wednesday | 11/05 | CyberAmbassadors Leading with Principles |
+| Wednesday | 11/05 | CyberAmbassadors Leading the Change |
 | Friday | 11/07 | Deep Tutorial Review |
 | Sunday | 11/09 | MILESTONE Reproducability |
 
@@ -113,7 +113,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/10 | Figure Reproducibility Review |
-| Wednesday | 11/12 | CyberAmbassadors Leading the Change |
+| Wednesday | 11/12 | Project CoWork |
 | Friday | 11/14 | Tutorial Presentations |
 | Sunday | 11/16 | MILESTONE Full Project Draft |
 

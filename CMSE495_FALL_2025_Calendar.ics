@@ -172,11 +172,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: Community Engaged Learning II
+SUMMARY:CMSE495: CyberAmbassadors Lets talk
 DTSTART;TZID=US/Eastern:20250924T093000
 DTEND;TZID=US/Eastern:20250924T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/0924-Community_Engaged_Learning_II'>Link to assignment</a>
+ ule/0924-CyberAmbassadors_Lets_talk'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +207,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: CyberAmbassadors Lets talk
+SUMMARY:CMSE495: CyberAmbassadors Leveling Up
 DTSTART;TZID=US/Eastern:20251001T093000
 DTEND;TZID=US/Eastern:20251001T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1001-CyberAmbassadors_Lets_talk'>Link to assignment</a>
+ ule/1001-CyberAmbassadors_Leveling_Up'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
@@ -242,11 +242,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: CyberAmbassadors Leveling Up
+SUMMARY:CMSE495: CyberAmbassadors Its Complicated
 DTSTART;TZID=US/Eastern:20251008T093000
 DTEND;TZID=US/Eastern:20251008T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1008-CyberAmbassadors_Leveling_Up'>Link to assignment</a>
+ ule/1008-CyberAmbassadors_Its_Complicated'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
@@ -277,11 +277,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: CyberAmbassadors Its Complicated
+SUMMARY:CMSE495: CyberAmbassadors Leading the Team
 DTSTART;TZID=US/Eastern:20251015T093000
 DTEND;TZID=US/Eastern:20251015T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1015-CyberAmbassadors_Its_Complicated'>Link to assignment</a>
+ ule/1015-CyberAmbassadors_Leading_the_Team'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
@@ -344,11 +344,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: CyberAmbassadors Leading the Team
+SUMMARY:CMSE495: CyberAmbassadors Leading with Principles
 DTSTART;TZID=US/Eastern:20251029T093000
 DTEND;TZID=US/Eastern:20251029T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1029-CyberAmbassadors_Leading_the_Team'>Link to assignment</a>
+ ule/1029-CyberAmbassadors_Leading_with_Principles'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
@@ -379,11 +379,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: CyberAmbassadors Leading with Principles
+SUMMARY:CMSE495: CyberAmbassadors Leading the Change
 DTSTART;TZID=US/Eastern:20251105T093000
 DTEND;TZID=US/Eastern:20251105T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1105-CyberAmbassadors_Leading_with_Principles'>Link to assignment</a>
+ ule/1105-CyberAmbassadors_Leading_the_Change'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
@@ -414,11 +414,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: CyberAmbassadors Leading the Change
+SUMMARY:CMSE495: Project CoWork
 DTSTART;TZID=US/Eastern:20251112T093000
 DTEND;TZID=US/Eastern:20251112T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1112-CyberAmbassadors_Leading_the_Change'>Link to assignment</a>
+ ule/1112-Project_CoWork'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
