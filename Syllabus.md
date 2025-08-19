@@ -34,7 +34,7 @@ There is a **_LOT_** of material to cover this semester. To help provide some st
 
 Once students are assigned to a team they will be added to a private team channel in the course Microsoft Team:
 
-* [Link to Course Teams Channel](TBD)
+* [Link to Course Teams Channel](https://teams.microsoft.com/l/team/19%3AdbqhTZkH-Zz0BLs4_Z99m_YGA0NheodUqwEC4VBycjk1%40thread.tacv2/conversations?groupId=00b9e709-3d27-4397-9b88-ae7ef08a3770&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 
 Teams will be expected to use either email or this channel for team communications. This will help the instructor stay organized and informed. 
 
@@ -240,7 +240,7 @@ At times, we will send out important course information via email.  This email 
 
 In addition to email, students will be expected to check the course Teams Channel.  Students are responsible for all information sent to Teams. It is highly recommended that students download the app and turn on alerts.  
 
-* [Link to Course Teams channel](TBD)
+* [Link to Course Teams channel](https://teams.microsoft.com/l/team/19%3AdbqhTZkH-Zz0BLs4_Z99m_YGA0NheodUqwEC4VBycjk1%40thread.tacv2/conversations?groupId=00b9e709-3d27-4397-9b88-ae7ef08a3770&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 
 ## Inclusive Classroom Behavior 
 
