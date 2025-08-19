@@ -23,7 +23,7 @@ Your goal for the next half hour is to review a project as a group and do some p
 More information about this assignment can be found here:
 
 
-* [ASSIGNMENT Project Review Presentation](0829-ASSIGNMENT_Project_Review_Presentation.ipynb)
+* [ASSIGNMENT Project Review Presentation](0829-ASSIGNMENT_Project_Review_Presentation)
 
 
 # 3. Sharing Review results

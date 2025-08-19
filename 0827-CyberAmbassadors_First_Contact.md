@@ -14,7 +14,7 @@
 
 Today we will split everyone into temporary groups of 4-5 people.  Each group will be assigned a project summary and expected to write a short report and give a summary this Friday. Please see the following link for more information about the assignment:
 
-* [ASSIGNMENT Project Review Presentation](0829.ipynb-ASSIGNMENT_Project_Review_Presentation)
+* [ASSIGNMENT Project Review Presentation](0829-ASSIGNMENT_Project_Review_Presentation)
 
 **_NOTE:_** You still need to individually review **_ALL_** the projects and fill out the project selection form which is due on Sunday. The teams formed today are only temporary and the project is not necessarily the one you will be assigned for the semester.
 
