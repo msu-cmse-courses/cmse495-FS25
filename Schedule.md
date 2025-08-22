@@ -32,8 +32,8 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 09/08 |  [Anticpating Challenges](0908-Anticpating_Challenges) |
-| Wednesday | 09/10 | CyberAmbassadors Speaking up |
-| Friday | 09/12 | SCHOLAR Review |
+| Wednesday | 09/10 |  [CyberAmbassadors Speaking up](0910-CyberAmbassadors_Speaking_up) |
+| Friday | 09/12 |  [SCHOLAR Review](0912-SCHOLAR_Review) |
 | Sunday | 09/14 |  [MILESTONE Plan](0914-MILESTONE_Plan) |
 
 ## Week of September 15
