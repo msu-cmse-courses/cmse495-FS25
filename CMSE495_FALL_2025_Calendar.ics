@@ -137,11 +137,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: Community Engaged Learning I
+SUMMARY:CMSE495: Community Engaged Learning
 DTSTART;TZID=US/Eastern:20250917T093000
 DTEND;TZID=US/Eastern:20250917T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/0917-Community_Engaged_Learning_I'>Link to assignment</a>
+ ule/0917-Community_Engaged_Learning'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT

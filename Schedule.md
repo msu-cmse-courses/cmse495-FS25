@@ -40,9 +40,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 09/15 | Project Plan |
-| Wednesday | 09/17 | Community Engaged Learning I |
-| Friday | 09/19 | SCHOLAR Pull request |
+| Monday | 09/15 |  [Project Plan](0915-Project_Plan) |
+| Wednesday | 09/17 |  [Community Engaged Learning](0917-Community_Engaged_Learning) |
+| Friday | 09/19 |  [SCHOLAR Pull request](0919-SCHOLAR_Pull_request) |
 | Sunday | 09/21 |  [MILESTONE Plan Video Storyboard](0921-MILESTONE_Plan_Video_Storyboard) |
 
 ## Week of September 22
