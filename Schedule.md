@@ -49,9 +49,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 09/22 | Proposal Presentation Storyboard Review |
-| Wednesday | 09/24 | CyberAmbassadors Lets talk |
-| Friday | 09/26 | SCHOLAR Presentations |
+| Monday | 09/22 |  [Proposal Presentation Storyboard Review](0922-Proposal_Presentation_Storyboard_Review) |
+| Wednesday | 09/24 |  [CyberAmbassadors Lets talk](0924-CyberAmbassadors_Lets_talk) |
+| Friday | 09/26 |  [SCHOLAR Presentations](0926-SCHOLAR_Presentations) |
 | Sunday | 09/28 |  [MILESTONE Plan Video](0928-MILESTONE_Plan_Video) |
 
 ## Week of September 29

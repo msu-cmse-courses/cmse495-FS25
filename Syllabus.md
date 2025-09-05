@@ -202,9 +202,10 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 Dr. Justin Gambrell (he/him)  
 Department of Computational Mathematics, Science and Engineering (CMSE)   
 **_Email_**: gambre11@msu.edu  
-**_Office_**: ??? 
-**_Virtual Office_**:  ???
-**_Office Hours_**:  ???
+**_Office_**: none  
+**_Virtual Office_**:  [Justin's Zoom Office](https://msu.zoom.us/j/96475559158)  
+Passcode: 596028  
+**_Office Hours_**:  Tuesdays 3:00-5:00 pm online only
 
 
 # Course Policies and Expectations
