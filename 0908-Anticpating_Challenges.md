@@ -33,9 +33,9 @@ In a circular path, review the team charters for all of the teams in your tripod
 # Example Case Study: Not Enough Training Data
 For this exercise your groups will review one of the case studies in the following page. 
 
-To get some practice, the entire class will review the first case study to give you an idea what you should be doing. 
+To get some practice, the entire class will review the first case study to give you an idea what you should be doing.  challenges 
 
-- [Link to today's Handout](./Anticipating_Challges)
+- [Link to today's Handout](./Anticipating-Challenges)
 
 
 
