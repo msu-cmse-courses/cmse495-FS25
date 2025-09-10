@@ -1,9 +1,12 @@
 # Speaking Up
 
 
-## Agenda (80 Minutes)
+## Agenda (70 Minutes)
 
-- (80 minutes) Speaking up.
+- (5 minutes) References for working with me.
+- (15 minutes) Effective tips / Tricks for writing emails
+- (50 minutes) Speaking up
+
 
 [Link to slides](https://docs.google.com/presentation/d/1qVjaKQSgm0jqjClwiBgMgbcZNrAXyknyCtuvZIMmtuQ/edit?usp=sharing)
 
