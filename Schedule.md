@@ -58,9 +58,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 09/29 | Proposal Presentations |
-| Wednesday | 10/01 | CyberAmbassadors Leveling Up |
-| Friday | 10/03 | Selection Matrix |
+| Monday | 09/29 |  [Proposal Presentations](0929-Proposal_Presentations) |
+| Wednesday | 10/01 |  [CyberAmbassadors Leveling Up](1001-CyberAmbassadors_Leveling_Up) |
+| Friday | 10/03 |  [Selection Matrix](1003-Selection_Matrix) |
 | Sunday | 10/05 |  [MILESTONE Outreach](1005-MILESTONE_Outreach) |
 
 ## Week of October 6
