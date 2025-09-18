@@ -47,7 +47,7 @@ There are multiple steps required to get credit for this assignment:
 
 1. ***Turn in the blog and slide files:*** Place a copy in your team drive and email a copy/link to your instructors. Make sure these files are turned in on or before the due date.
 
-2. ***Sign the [Media Release form](./Files/CMSE495_Media_Release_From.pdf):*** Sign and turn in a paper copy.  Your instructor will have copies of the from in class so you don't have to print them.  However the instructors do need a physical copy for our files. 
+2. ***Sign the [Media Release form](./Files/CMSE495_Media_Release_Form.pdf):*** Sign and turn in a paper copy.  Your instructor will have copies of the from in class so you don't have to print them.  However the instructors do need a physical copy for our files. 
 
 3. ***Final Approval***: After your assignments have been evaluated and you have addressed the feedback from your instructors you need to email a copy/link of the final blog post and slide to your community partner (cc the instructors) for final approval before we can post to any public form. 
 

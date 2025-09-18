@@ -67,9 +67,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 10/06 | Outreach Review |
-| Wednesday | 10/08 | CyberAmbassadors Its Complicated |
-| Friday | 10/10 | Tutorial Selection |
+| Monday | 10/06 |  [Outreach Review](1006-Outreach_Review) |
+| Wednesday | 10/08 |  [CyberAmbassadors Its Complicated](1008-CyberAmbassadors_Its_Complicated) |
+| Friday | 10/10 |  [Tutorial Selection](1010-Tutorial_Selection) |
 | Sunday | 10/12 |  [MILESTONE Install Instructions](1012-MILESTONE_Install_Instructions) |
 
 ## Week of October 13
@@ -77,7 +77,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 10/13 | Install Instruction Review |
-| Wednesday | 10/15 | CyberAmbassadors Leading the Team |
+| Wednesday | 10/15 | Project CoWork |
 | Friday | 10/17 | Tutorial Development |
 | Sunday | 10/19 | Nothing Due (Fall Break) |
 
@@ -86,7 +86,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 10/20 | Fall Break |
-| Wednesday | 10/22 | Project CoWork |
+| Wednesday | 10/22 | CyberAmbassadors Leading the Team |
 | Friday | 10/24 | Project CoWork |
 | Sunday | 10/26 |  [MILESTONE MVP Presentation Storyboard](1026-MILESTONE_MVP_Presentation_Storyboard) |
 
