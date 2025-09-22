@@ -4,7 +4,7 @@
 
 - (10 minutes) Shout Outs
 - (30 minutes) Project Similarities
-- (30 minutes) Engineering ABET Visit (Group Work)
+- (30 minutes) Storyboard Review / Engineering ABET Visit (Group Work)
 
 # Shout Outs
 
@@ -47,7 +47,7 @@ When your team is done, review the results of the survey from all of the teams h
 
 This document may be tricky to interpret so feel free to download the document and review the results.
 
-##### ## Step 3: Individual Opinions
+## Step 3: Individual Opinions
 Once you have a good feel about the projects, fill out the following distance matrix as best you can.  Start with your project and assign the value of zero (0) then rank all of the remaining projects on a scale of 1-5 with 1 being the most similar and 5 being the least similar.  This is a personal perception of the project (don't just copy a teammates). 
 
 [Direct link to google form](https://forms.gle/4rvrNYqxH28t1UAV8)
