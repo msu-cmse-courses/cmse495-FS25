@@ -2,8 +2,7 @@
 
 ## Agenda (70 Minutes)
 
-- (10 minutes) Finish up presentation Videos (if needed)
-- (60 minutes) Let's Talk 
+- (70 minutes) Let's Talk 
 
 - [Let's Talk Slides](https://docs.google.com/presentation/d/1zP_GygEZPZkaaz9yQ_NvYz2ECZ5Pz4sV5KLsAikfRCc/edit?usp=sharing)
 
