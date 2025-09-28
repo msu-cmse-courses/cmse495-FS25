@@ -76,9 +76,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 10/13 | Install Instruction Review |
-| Wednesday | 10/15 | Project CoWork |
-| Friday | 10/17 | Tutorial Development |
+| Monday | 10/13 |  [Install Instruction Review](1013-Install_Instruction_Review) |
+| Wednesday | 10/15 |  [FREE Data Science Summit](1015-FREE_Data_Science_Summit) |
+| Friday | 10/17 |  [Tutorial Development](1017-Tutorial_Development) |
 | Sunday | 10/19 | Nothing Due (Fall Break) |
 
 ## Week of October 20

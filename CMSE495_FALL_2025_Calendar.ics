@@ -277,11 +277,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: Project CoWork
+SUMMARY:CMSE495: FREE Data Science Summit
 DTSTART;TZID=US/Eastern:20251015T093000
 DTEND;TZID=US/Eastern:20251015T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1015-Project_CoWork'>Link to assignment</a>
+ ule/1015-FREE_Data_Science_Summit'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
