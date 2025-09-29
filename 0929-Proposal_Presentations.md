@@ -1,27 +1,15 @@
 # Proposal Presentations
 
-Today we will watch the presentation videos. Even with 80 minutes we will likely not have enough time to get through all of the videos. However, I have set aside time on Wednesday to finish up. 
+Today we will watch the presentation videos. Even with 70 minutes we may not have enough time to get through all of the videos. However, I have set aside time on Wednesday to finish up if we need it.
 
 ## Agenda (70 Minutes)
 
 - (70 minutes) Videos and questions 3-5 minutes each
 
 
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    Cell In[1], line 1
-    ----> 1 dir(thiscourse)
-
-
-    NameError: name 'thiscourse' is not defined
-
-
 # Video Feedback From
 
-You must try to fill out this form 12 times (for all projects except your own Tripod).  I realize this is a lot but please do your best to provide useful feedback to your peers. 
+You must try to fill out this form 12 times (for all projects except your own).  I realize this is a lot but please do your best to provide useful feedback to your peers. 
 
 Note, that some (NOT ALL) of your feedback and comments may be communicated with your peers.  This is intended to be anonymous. Please be professional and supportive in your feedback. Your professional participation in this process will influence your grade in the course. 
 
