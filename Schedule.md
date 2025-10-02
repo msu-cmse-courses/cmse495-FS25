@@ -86,8 +86,8 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 10/20 | Fall Break |
-| Wednesday | 10/22 | CyberAmbassadors Leading the Team |
-| Friday | 10/24 | Project CoWork |
+| Wednesday | 10/22 |  [CyberAmbassadors Leading the Team](1022-CyberAmbassadors_Leading_the_Team) |
+| Friday | 10/24 |  [Project CoWork](1024-Project_CoWork) |
 | Sunday | 10/26 |  [MILESTONE MVP Presentation Storyboard](1026-MILESTONE_MVP_Presentation_Storyboard) |
 
 ## Week of October 27
@@ -113,7 +113,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/10 | Figure Reproducibility Review |
-| Wednesday | 11/12 | Project CoWork |
+| Wednesday | 11/12 |  [Project CoWork](1112-Project_CoWork) |
 | Friday | 11/14 | Tutorial Presentations |
 | Sunday | 11/16 |  [MILESTONE Full Project Draft](1116-MILESTONE_Full_Project_Draft) |
 
@@ -122,8 +122,8 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/17 | Full Project Review |
-| Wednesday | 11/19 | Project CoWork |
-| Friday | 11/21 | Project CoWork |
+| Wednesday | 11/19 |  [Project CoWork](1119-Project_CoWork) |
+| Friday | 11/21 |  [Project CoWork](1121-Project_CoWork) |
 | Sunday | 11/23 |  [MILESTONE Final Presentation Storyboard](1123-MILESTONE_Final_Presentation_Storyboard) |
 
 ## Week of November 24
@@ -131,7 +131,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/24 | Final presentation Storyboard Feedback |
-| Wednesday | 11/26 | Project CoWork |
+| Wednesday | 11/26 |  [Project CoWork](1126-Project_CoWork) |
 | Friday | 11/28 | Thanksgiving Break |
 | Sunday | 11/30 |  [MILESTONE Final Project](1130-MILESTONE_Final_Project) |
 
