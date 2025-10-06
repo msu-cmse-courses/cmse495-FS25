@@ -1,12 +1,22 @@
 # Installation Code Review
 
 
-## Agenda (80 Minutes)
+## Agenda (70 Minutes)
 
-- (5 minutes) Announcements, check-in and Shout-Outs
+- (10 minutes) Announcements, check-in and Shout-Outs
 - (5 minutes) CATME Team Review
 - (10 minutes) Volunteer to make class slideshow
-- (60 minutes) Group meeting
+- (45 minutes) Group meeting
+
+----
+#  Installation Instructions
+
+Git repositories need to be "Safe, Portable, Reproducible, Robust and Literate".  Please see the following for some guidelines:
+
+* [Rules for Repos](https://colbrydi.github.io/Research_guidelines/Rules_for_Repos.html)
+
+
+
 
 -----
 #  Shout-Outs
