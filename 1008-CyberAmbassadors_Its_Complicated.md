@@ -2,9 +2,9 @@
 
 
 
-## Agenda (80 Minutes)
+## Agenda (70 Minutes)
 
-- (80 minutes) It's Complicated
+- (70 minutes) It's Complicated
 
 
 [Link to slides](https://docs.google.com/presentation/d/14TvreKjiwiibkIfefYlDAQKlPMjVYiRWWJDpFC5lhpU/edit?usp=sharing)
