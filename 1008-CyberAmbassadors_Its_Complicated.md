@@ -7,7 +7,7 @@
 - (70 minutes) It's Complicated
 
 
-[Link to slides](https://docs.google.com/presentation/d/14TvreKjiwiibkIfefYlDAQKlPMjVYiRWWJDpFC5lhpU/edit?usp=sharing)
+[Link to slides](https://docs.google.com/presentation/d/1oq73EhYCr7ooDJ7YTRvyj_rDzxGyHrNBls_m3aJtCWg/edit?usp=sharing)
 
 
 Written by Dr. Dirk Colbry, Michigan State University
