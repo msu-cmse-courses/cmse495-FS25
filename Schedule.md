@@ -94,9 +94,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 10/27 | MVP Presentation Storyboard Review |
-| Wednesday | 10/29 | CyberAmbassadors Leading with Principles |
-| Friday | 10/31 | Tutorial Pull Requests |
+| Monday | 10/27 |  [MVP Presentation Storyboard Review](1027-MVP_Presentation_Storyboard_Review) |
+| Wednesday | 10/29 |  [CyberAmbassadors Leading the Change](1029-CyberAmbassadors_Leading_the_Change) |
+| Friday | 10/31 |  [Tutorial Pull Requests](1031-Tutorial_Pull_Requests) |
 | Sunday | 11/02 |  [MILESTONE MVP Video](1102-MILESTONE_MVP_Video) |
 
 ## Week of November 3
@@ -104,7 +104,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/03 | MVP Presentations |
-| Wednesday | 11/05 | CyberAmbassadors Leading the Change |
+| Wednesday | 11/05 | CyberAmbassadors Leading with Principles |
 | Friday | 11/07 | Deep Tutorial Review |
 | Sunday | 11/09 |  [MILESTONE Reproducability](1109-MILESTONE_Reproducability) |
 

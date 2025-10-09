@@ -344,11 +344,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: CyberAmbassadors Leading with Principles
+SUMMARY:CMSE495: CyberAmbassadors Leading the Change
 DTSTART;TZID=US/Eastern:20251029T093000
 DTEND;TZID=US/Eastern:20251029T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1029-CyberAmbassadors_Leading_with_Principles'>Link to assignment</a>
+ ule/1029-CyberAmbassadors_Leading_the_Change'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
@@ -379,11 +379,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: CyberAmbassadors Leading the Change
+SUMMARY:CMSE495: CyberAmbassadors Leading with Principles
 DTSTART;TZID=US/Eastern:20251105T093000
 DTEND;TZID=US/Eastern:20251105T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1105-CyberAmbassadors_Leading_the_Change'>Link to assignment</a>
+ ule/1105-CyberAmbassadors_Leading_with_Principles'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
