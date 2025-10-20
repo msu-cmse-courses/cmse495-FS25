@@ -414,11 +414,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: Project CoWork
+SUMMARY:CMSE495: Project CoWork 2
 DTSTART;TZID=US/Eastern:20251112T093000
 DTEND;TZID=US/Eastern:20251112T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1112-Project_CoWork'>Link to assignment</a>
+ ule/1112-Project_CoWork_2'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
@@ -449,19 +449,19 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: Project CoWork
+SUMMARY:CMSE495: Project CoWork 3
 DTSTART;TZID=US/Eastern:20251119T093000
 DTEND;TZID=US/Eastern:20251119T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1119-Project_CoWork'>Link to assignment</a>
+ ule/1119-Project_CoWork_3'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: Project CoWork
+SUMMARY:CMSE495: Project CoWork 4
 DTSTART;TZID=US/Eastern:20251121T093000
 DTEND;TZID=US/Eastern:20251121T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1121-Project_CoWork'>Link to assignment</a>
+ ule/1121-Project_CoWork_4'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
@@ -484,11 +484,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: Project CoWork
+SUMMARY:CMSE495: Project CoWork 5
 DTSTART;TZID=US/Eastern:20251126T093000
 DTEND;TZID=US/Eastern:20251126T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1126-Project_CoWork'>Link to assignment</a>
+ ule/1126-Project_CoWork_5'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT

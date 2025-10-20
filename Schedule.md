@@ -113,7 +113,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/10 | Figure Reproducibility Review |
-| Wednesday | 11/12 |  [Project CoWork](1112-Project_CoWork) |
+| Wednesday | 11/12 | Project CoWork 2 |
 | Friday | 11/14 | Tutorial Presentations |
 | Sunday | 11/16 |  [MILESTONE Full Project Draft](1116-MILESTONE_Full_Project_Draft) |
 
@@ -122,8 +122,8 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/17 | Full Project Review |
-| Wednesday | 11/19 |  [Project CoWork](1119-Project_CoWork) |
-| Friday | 11/21 |  [Project CoWork](1121-Project_CoWork) |
+| Wednesday | 11/19 | Project CoWork 3 |
+| Friday | 11/21 | Project CoWork 4 |
 | Sunday | 11/23 |  [MILESTONE Final Presentation Storyboard](1123-MILESTONE_Final_Presentation_Storyboard) |
 
 ## Week of November 24
@@ -131,7 +131,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 11/24 | Final presentation Storyboard Feedback |
-| Wednesday | 11/26 |  [Project CoWork](1126-Project_CoWork) |
+| Wednesday | 11/26 | Project CoWork 5 |
 | Friday | 11/28 | Thanksgiving Break |
 | Sunday | 11/30 |  [MILESTONE Final Project](1130-MILESTONE_Final_Project) |
 
