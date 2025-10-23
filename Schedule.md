@@ -112,9 +112,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 11/10 | Figure Reproducibility Review |
-| Wednesday | 11/12 | Project CoWork 2 |
-| Friday | 11/14 | Tutorial Presentations |
+| Monday | 11/10 |  [Figure Reproducibility Review](1110-Figure_Reproducibility_Review) |
+| Wednesday | 11/12 |  [Project CoWork 2](1112-Project_CoWork_2) |
+| Friday | 11/14 |  [Tutorial Presentations](1114-Tutorial_Presentations) |
 | Sunday | 11/16 |  [MILESTONE Full Project Draft](1116-MILESTONE_Full_Project_Draft) |
 
 ## Week of November 17
