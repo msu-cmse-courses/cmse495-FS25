@@ -121,9 +121,9 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 11/17 | Full Project Review |
-| Wednesday | 11/19 | Project CoWork 3 |
-| Friday | 11/21 | Project CoWork 4 |
+| Monday | 11/17 |  [Full Project Review](1117-Full_Project_Review) |
+| Wednesday | 11/19 |  [Project CoWork 3](1119-Project_CoWork_3) |
+| Friday | 11/21 |  [Project CoWork 4](1121-Project_CoWork_4) |
 | Sunday | 11/23 |  [MILESTONE Final Presentation Storyboard](1123-MILESTONE_Final_Presentation_Storyboard) |
 
 ## Week of November 24
