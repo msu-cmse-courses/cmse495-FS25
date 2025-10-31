@@ -5,16 +5,16 @@ permalink: /apply/
 nav: false
 description: "Join the Vertically Integrated Projects (VIP) Program at Michigan State University"
 ---
+<h1>Data Science News Highlights</h1>
 
-.vip-section {
-  font-family: 'Segoe UI', sans-serif;
-  line-height: 1.6;
-  color: #222;
-}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
-.vip-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.5em;
-  margin: 2em 0;
-}
+
+
