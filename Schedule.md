@@ -130,8 +130,8 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 11/24 | Final presentation Storyboard Feedback |
-| Wednesday | 11/26 | Project CoWork 5 |
+| Monday | 11/24 |  [Final presentation Storyboard Feedback](1124-Final_presentation_Storyboard_Feedback) |
+| Wednesday | 11/26 |  [Project CoWork 5](1126-Project_CoWork_5) |
 | Friday | 11/28 | Thanksgiving Break |
 | Sunday | 11/30 |  [MILESTONE Final Project](1130-MILESTONE_Final_Project) |
 
