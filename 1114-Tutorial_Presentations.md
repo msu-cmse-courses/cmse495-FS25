@@ -9,8 +9,16 @@
 
 # Final Tutorial Presentation
 
-The instructor will try to put each of the new tutorials up on the screen and I the corresponding team will give a brief overview of the tutorial and what they learned. 
+Each team will give a ~5 minute demo describing their SCHOLAR tutorial.  Please make sure you include the following information:
 
+* Name of the Tutorial file so people can follow along.
+* Describe the tool/package and why it may be useful.
+* Answer the question "When should I use this tool/package?"
+* What are the pros/cons of using this package.
+
+If you would like to share your screen during the presentation please make sure you are able to log on to the course zoom room. 
+
+During the demo, assume that each of your audience members can look up the tutorial on their computer and follow along. 
 
 
 Written by Dr. Dirk Colbry, Michigan State University

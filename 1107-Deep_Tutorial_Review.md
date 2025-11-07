@@ -40,7 +40,7 @@ After you have submitted the email to your instructions share a copy with the te
 
 # Next week
 
-Once you have successfully submitted your pull request you can practice a 3 minute presentation for next week during class. During the demo, assume that each of your audience members can look up the tutorial on their computer and follow along. 
+Once you have successfully submitted your final pull request you can prepare/practice a SCHOLAR tutorial presentation for next week during class.
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
