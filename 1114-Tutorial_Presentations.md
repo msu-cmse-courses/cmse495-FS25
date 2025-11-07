@@ -9,7 +9,7 @@
 
 # Final Tutorial Presentation
 
-Each team will give a ~5 minute demo describing their SCHOLAR tutorial.  Please make sure you include the following information:
+Each team will give a ~5 minute demo describing their SCHOLAR tutorial.  Think of the presentation as an honest ad about the tool/package in the tutorial.  In a short time, try to encourage and explain why someone would want to use the tool/package. Please make sure you include the following information:
 
 * Name of the Tutorial file so people can follow along.
 * Describe the tool/package and why it may be useful.
