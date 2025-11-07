@@ -28,13 +28,13 @@ Conduct a meeting to review your assigned tutorial as a team. Make sure you have
 
 Review your partner team's tutorials and provide feedback in the form of either an issue on the gitlab issues page and/or a pull request.  When you are done, please review any other tutorials as you have time and are interested.
 
-Summarize in an email to your instructor the following (make sure you cc your entire team):
+Summarize in a report the following:
 
 - Which tutorial did you review
 - What issues did you find (include a list with numbers)
 - What pull requests did you submit (include a list with numbers).
 
-After you have submitted the email to your instructions share a copy with the team that made the tutorial. 
+Put a copy of your report in the other teams public folder on teams.  
 
 --- 
 
