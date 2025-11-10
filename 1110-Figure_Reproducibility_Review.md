@@ -24,7 +24,7 @@ This is a tri-pod team paring exercise.  Your team will work with another team t
 - (5 minutes) Quick Introductions. Identify a timekeeper, notetaker, code reviewer, and facilitator.
 - (20 minutes) Review Installation and Figure instructions
 - (10 minutes) Discussion and brainstorming about improvements
-- (10 minutes) Finish typing up email to instructors
+- (10 minutes) Finish typing up report to instructors
 
 In your group, have someone that is not from the code development team to try to install the  software and review the figure instructions. Have the group members from the development team hold back and only give advice and support if there is a problem.  The idea is to streamline the process so that the figure instructions are sufficient for someone outside of the development team to be able to reproduce the figure (within reason) without needing to have a developer to help.   As a group take lots of notes and review the documentation to the development group some constructive feedback.  If you are a member of the code's development team, use this as an opportunity to fix problems as they are discovered. 
 
