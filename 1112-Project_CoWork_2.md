@@ -11,6 +11,8 @@
 
 Deepak Reddy Sannapareddy will present some results of his work working with Justair.  
 
+[Today's Slides](https://docs.google.com/presentation/d/1ziQ3kwNatP3PEQ2GK01zGDhVQHsGMwfScIeEGfIe82c/edit?usp=sharing)
+
 ---
 # Group one-on-one presentations
 
