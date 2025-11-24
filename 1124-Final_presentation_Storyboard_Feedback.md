@@ -19,12 +19,12 @@ This is a team paring exercise.  Your team will work with your tripod to review 
 | 1 | HFH_MT | MxV_Rail | MSU_Deer_Drones |
 | 2 | MSU_Curriculum | Justair | WBTPD |
 
-Have your tripods exchange links to your video storyboard (each group needs to only do one but make sure all projects get reviews).  Review another team's storyboard and write an email report for the instructor and the other team. This report should provide the following:
+Have your tripods exchange links to your video storyboard (each group needs to only do one but make sure all projects get reviews).  Review another team's storyboard and write an report for the instructor and the other team. This report should provide the following:
 
 - List the proposal team name and the evaluator team name.
 - Ideas for making the video better.
 
-Make sure you title the email and make it clear your group name and the group you are reviewing).  Email the group and the instructors to get credit. 
+Make sure you title the report and make it clear your group name and the group you are reviewing.  Put the report in the team's public folder to get credit. 
 
 ----
 
