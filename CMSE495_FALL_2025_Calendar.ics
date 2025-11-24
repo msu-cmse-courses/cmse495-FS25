@@ -527,11 +527,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: No Class Due to Engeering Design Day
+SUMMARY:CMSE495: No Class Personal Refleciton DUE
 DTSTART;TZID=US/Eastern:20251205T093000
 DTEND;TZID=US/Eastern:20251205T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-FS25/Sched
- ule/1205-No_Class_Due_to_Engeering_Design_Day'>Link to assignment</a>
+ ule/1205-No_Class_Personal_Refleciton_DUE'>Link to assignment</a>
 LOCATION:Holmes Hall room W9
 END:VEVENT
 BEGIN:VEVENT

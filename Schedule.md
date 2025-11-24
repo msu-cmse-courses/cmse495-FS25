@@ -141,6 +141,6 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 |------|---------|------------|
 | Monday | 12/01 |  [Course Review and Reflection](1201-Course_Review_and_Reflection) |
 | Wednesday | 12/03 |  [Showcase](1203-Showcase) |
-| Friday | 12/05 | No Class Due to Engeering Design Day |
+| Friday | 12/05 |  [No Class Personal Refleciton DUE](1205-No_Class_Personal_Refleciton_DUE) |
 | Sunday | 12/07 | Final Extended Deadline |
 
