@@ -65,7 +65,7 @@ The **CMSE Project Showcase** will be held in the CMSE seminar room (EB1502 and 
 Every student is required to submit a feedback form for the teams NOT in their tripod.  Visitors may also fill out this form.
 
 
-* [Direct Link to Feedback Form](https://tinyurl.com/cmse2025showcase)
+* [Direct Link to Feedback Form](https://tinyurl.com/F2025Showcase)
 
 ![QR Link to feedback form](https://lh7-rt.googleusercontent.com/formsz/AN7BsVCoAyRy2XkEqq1PfJwRng4nVZs2LcafQnDDvWj5N_geUElMuFD7NRxCsoonMi5QaN-pR5JtPiRX6iWI0JEIaX0RBEHsZDCbJ46ZELMCS-q2QUbnfGNrxqNVCJs9GH36cynBEcr_rb7aPlnA9fqRfeBcD1kpcU9ho7Pp-kN_XigCilvNG2GTA0baAao_sY-M1q_ZbagsxkQFqLw=w370?key=crd8b0z2gYlK53AuVK-GTQ)
 
